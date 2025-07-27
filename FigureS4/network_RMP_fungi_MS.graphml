@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_Phylum" for="node" attr.name="Phylum" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_corr" for="edge" attr.name="corr" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">Filobasidium</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">Acaulium</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">Cladosporium</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">Pseudogymnoascus</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">Scopulariopsis</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">Cheilymenia</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">Neocosmospora</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">Aureobasidium</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">Botryotrichum</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">Malassezia</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">Naganishia</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">Trichocladium</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">Dothiora</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">Vishniacozyma</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">Pleosporales_gen_Incertae_sedis</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">Cephalotrichum</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">Spizellomycetales_gen_Incertae_sedis</data>
+      <data key="v_Phylum">Chytridiomycota</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">Enterocarpus</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">Dactylonectria</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">Mrakia</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">Pseudoarthrographis</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">Articulospora</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">Gyrothrix</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">Coniosporium</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">Cystofilobasidium</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">Trichomeriaceae_gen_Incertae_sedis</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">Vandijckella</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">Setophaeosphaeria</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">Stachybotrys</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">Malasseziaceae_gen_Incertae_sedis</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">Herpotrichiellaceae_gen_Incertae_sedis</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">Striaticonidium</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">Lichtheimia</data>
+      <data key="v_Phylum">Mucoromycota</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">Pichia</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">Rhodosporidiobolus</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">Neocucurbitaria</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">GS11_gen_Incertae_sedis</data>
+      <data key="v_Phylum">Rozellomycota</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">Wickerhamomyces</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">Rhizomucor</data>
+      <data key="v_Phylum">Mucoromycota</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">Sphaerulina</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">Bradymyces</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">Eurotiales_gen_Incertae_sedis</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">Trimorphomycetaceae_gen_Incertae_sedis</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">Arxiella</data>
+      <data key="v_Phylum">Ascomycota</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">Suillus</data>
+      <data key="v_Phylum">Basidiomycota</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">0.64728322338503</data>
+      <data key="e_corr">-0.64728322338503</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.848103340123753</data>
+      <data key="e_corr">0.848103340123753</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">0.628803594353517</data>
+      <data key="e_corr">-0.628803594353517</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_weight">0.78951988814259</data>
+      <data key="e_corr">-0.78951988814259</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_weight">0.797930816670025</data>
+      <data key="e_corr">-0.797930816670025</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">0.745461860921801</data>
+      <data key="e_corr">0.745461860921801</data>
+    </edge>
+    <edge source="n0" target="n13">
+      <data key="e_weight">0.715575959423492</data>
+      <data key="e_corr">0.715575959423492</data>
+    </edge>
+    <edge source="n0" target="n17">
+      <data key="e_weight">0.740293745038927</data>
+      <data key="e_corr">-0.740293745038927</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">0.773059341670172</data>
+      <data key="e_corr">0.773059341670172</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">0.662632267349375</data>
+      <data key="e_corr">0.662632267349375</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">0.628260299261679</data>
+      <data key="e_corr">-0.628260299261679</data>
+    </edge>
+    <edge source="n1" target="n17">
+      <data key="e_weight">0.858316285313944</data>
+      <data key="e_corr">0.858316285313944</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_weight">0.715100328830738</data>
+      <data key="e_corr">-0.715100328830738</data>
+    </edge>
+    <edge source="n2" target="n6">
+      <data key="e_weight">0.676674107014446</data>
+      <data key="e_corr">-0.676674107014446</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_weight">0.710023901026632</data>
+      <data key="e_corr">0.710023901026632</data>
+    </edge>
+    <edge source="n2" target="n9">
+      <data key="e_weight">0.712916506261824</data>
+      <data key="e_corr">0.712916506261824</data>
+    </edge>
+    <edge source="n2" target="n13">
+      <data key="e_weight">0.665273179590901</data>
+      <data key="e_corr">0.665273179590901</data>
+    </edge>
+    <edge source="n2" target="n14">
+      <data key="e_weight">0.624058841022997</data>
+      <data key="e_corr">0.624058841022997</data>
+    </edge>
+    <edge source="n2" target="n15">
+      <data key="e_weight">0.62259790691841</data>
+      <data key="e_corr">-0.62259790691841</data>
+    </edge>
+    <edge source="n2" target="n17">
+      <data key="e_weight">0.655394299640036</data>
+      <data key="e_corr">-0.655394299640036</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">0.68581413055235</data>
+      <data key="e_corr">0.68581413055235</data>
+    </edge>
+    <edge source="n4" target="n7">
+      <data key="e_weight">0.633236328551792</data>
+      <data key="e_corr">-0.633236328551792</data>
+    </edge>
+    <edge source="n4" target="n15">
+      <data key="e_weight">0.625358886164318</data>
+      <data key="e_corr">0.625358886164318</data>
+    </edge>
+    <edge source="n4" target="n17">
+      <data key="e_weight">0.770937883914089</data>
+      <data key="e_corr">0.770937883914089</data>
+    </edge>
+    <edge source="n5" target="n8">
+      <data key="e_weight">0.621075748163897</data>
+      <data key="e_corr">0.621075748163897</data>
+    </edge>
+    <edge source="n5" target="n11">
+      <data key="e_weight">0.724424177731258</data>
+      <data key="e_corr">0.724424177731258</data>
+    </edge>
+    <edge source="n5" target="n17">
+      <data key="e_weight">0.665837485773348</data>
+      <data key="e_corr">0.665837485773348</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">0.618386879485727</data>
+      <data key="e_corr">-0.618386879485727</data>
+    </edge>
+    <edge source="n7" target="n10">
+      <data key="e_weight">0.665616490790355</data>
+      <data key="e_corr">0.665616490790355</data>
+    </edge>
+    <edge source="n7" target="n13">
+      <data key="e_weight">0.606563520917588</data>
+      <data key="e_corr">0.606563520917588</data>
+    </edge>
+    <edge source="n8" target="n11">
+      <data key="e_weight">0.817958402859388</data>
+      <data key="e_corr">0.817958402859388</data>
+    </edge>
+    <edge source="n9" target="n14">
+      <data key="e_weight">0.728625608060025</data>
+      <data key="e_corr">0.728625608060025</data>
+    </edge>
+    <edge source="n10" target="n33">
+      <data key="e_weight">0.610105203125929</data>
+      <data key="e_corr">0.610105203125929</data>
+    </edge>
+    <edge source="n11" target="n18">
+      <data key="e_weight">0.611892036228775</data>
+      <data key="e_corr">0.611892036228775</data>
+    </edge>
+    <edge source="n12" target="n39">
+      <data key="e_weight">0.700338713055674</data>
+      <data key="e_corr">0.700338713055674</data>
+    </edge>
+    <edge source="n14" target="n20">
+      <data key="e_weight">0.666065866085894</data>
+      <data key="e_corr">0.666065866085894</data>
+    </edge>
+    <edge source="n14" target="n21">
+      <data key="e_weight">0.646503582412441</data>
+      <data key="e_corr">0.646503582412441</data>
+    </edge>
+    <edge source="n15" target="n17">
+      <data key="e_weight">0.608980833181825</data>
+      <data key="e_corr">0.608980833181825</data>
+    </edge>
+    <edge source="n16" target="n28">
+      <data key="e_weight">0.680766959302471</data>
+      <data key="e_corr">0.680766959302471</data>
+    </edge>
+    <edge source="n16" target="n34">
+      <data key="e_weight">0.715678085420547</data>
+      <data key="e_corr">0.715678085420547</data>
+    </edge>
+    <edge source="n16" target="n35">
+      <data key="e_weight">0.706885913843603</data>
+      <data key="e_corr">0.706885913843603</data>
+    </edge>
+    <edge source="n16" target="n39">
+      <data key="e_weight">0.689213765997513</data>
+      <data key="e_corr">0.689213765997513</data>
+    </edge>
+    <edge source="n16" target="n44">
+      <data key="e_weight">0.715678085420547</data>
+      <data key="e_corr">0.715678085420547</data>
+    </edge>
+    <edge source="n19" target="n26">
+      <data key="e_weight">0.826595623951066</data>
+      <data key="e_corr">0.826595623951066</data>
+    </edge>
+    <edge source="n20" target="n21">
+      <data key="e_weight">0.701319992257164</data>
+      <data key="e_corr">0.701319992257164</data>
+    </edge>
+    <edge source="n20" target="n24">
+      <data key="e_weight">0.617125162551729</data>
+      <data key="e_corr">0.617125162551729</data>
+    </edge>
+    <edge source="n20" target="n29">
+      <data key="e_weight">0.764558247008228</data>
+      <data key="e_corr">0.764558247008228</data>
+    </edge>
+    <edge source="n21" target="n29">
+      <data key="e_weight">0.61030055100342</data>
+      <data key="e_corr">0.61030055100342</data>
+    </edge>
+    <edge source="n22" target="n30">
+      <data key="e_weight">0.715678085420547</data>
+      <data key="e_corr">0.715678085420547</data>
+    </edge>
+    <edge source="n23" target="n30">
+      <data key="e_weight">0.622538638542181</data>
+      <data key="e_corr">0.622538638542181</data>
+    </edge>
+    <edge source="n25" target="n30">
+      <data key="e_weight">0.655324372484214</data>
+      <data key="e_corr">0.655324372484214</data>
+    </edge>
+    <edge source="n27" target="n40">
+      <data key="e_weight">0.685452798356714</data>
+      <data key="e_corr">0.685452798356714</data>
+    </edge>
+    <edge source="n28" target="n31">
+      <data key="e_weight">0.715678085420547</data>
+      <data key="e_corr">0.715678085420547</data>
+    </edge>
+    <edge source="n28" target="n37">
+      <data key="e_weight">0.715678085420547</data>
+      <data key="e_corr">0.715678085420547</data>
+    </edge>
+    <edge source="n28" target="n41">
+      <data key="e_weight">0.715678085420547</data>
+      <data key="e_corr">0.715678085420547</data>
+    </edge>
+    <edge source="n30" target="n36">
+      <data key="e_weight">0.680766959302471</data>
+      <data key="e_corr">0.680766959302471</data>
+    </edge>
+    <edge source="n32" target="n38">
+      <data key="e_weight">0.752572618284912</data>
+      <data key="e_corr">0.752572618284912</data>
+    </edge>
+    <edge source="n33" target="n37">
+      <data key="e_weight">0.605970292604478</data>
+      <data key="e_corr">0.605970292604478</data>
+    </edge>
+    <edge source="n34" target="n44">
+      <data key="e_weight">1</data>
+      <data key="e_corr">1</data>
+    </edge>
+    <edge source="n36" target="n41">
+      <data key="e_weight">0.680766959302471</data>
+      <data key="e_corr">0.680766959302471</data>
+    </edge>
+    <edge source="n42" target="n43">
+      <data key="e_weight">0.680766959302471</data>
+      <data key="e_corr">0.680766959302471</data>
+    </edge>
+  </graph>
+</graphml>
