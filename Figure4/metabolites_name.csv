@@ -1,0 +1,2615 @@
+Compound_ID,Name
+Com_124_neg,N-Acetyl-D-alloisoleucine
+Com_178_neg,(¡À)12(13)-DiHOME
+Com_201_neg,"20-Hydroxy-(5Z,8Z,11Z,14Z)-eicosatetraenoic acid"
+Com_249_neg,N-Acetyl-L-phenylalanine
+Com_305_neg,"(+/-)9,10-dihydroxy-12Z-octadecenoic acid"
+Com_442_neg,Citric acid
+Com_455_neg,"8-iso-13,14-dihydro-15-keto Prostaglandin F2¦Á"
+Com_569_neg,DL-4-Hydroxyphenyllactic acid
+Com_916_neg,Gluconic acid
+Com_994_neg,L-Anserine
+Com_1063_neg,Lipoxin B4
+Com_1081_neg,2'-Deoxyuridine
+Com_1139_neg,N-Acetylaspartic acid
+Com_1515_neg,Guanosine monophosphate (GMP)
+Com_1607_neg,Dodecanedioic acid
+Com_1758_neg,"11,12-Epoxy-(5Z,8Z,11Z)-icosatrienoic acid"
+Com_2133_neg,15(R)-Lipoxin A4
+Com_2165_neg,3-Indoxyl sulphate
+Com_2248_neg,Thymidine 5'-monophosphate
+Com_2291_neg,Glycodeoxycholic acid
+Com_2506_neg,D-Ribose-1-phosphate
+Com_3640_neg,2'-Deoxyguanosine 5'-monophosphate (dGMP)
+Com_3723_neg,Pseudouridine
+Com_4423_neg,D-(-)-Mannitol
+Com_4710_neg,"¦Á-D-Glucose-1,6-bisphosphate"
+Com_4935_neg,2'-Deoxyinosine
+Com_5490_neg,D-Sedoheptulose 7-phosphate
+Com_5606_neg,N-Acetyl-L-glutamine
+Com_5791_neg,Oleoyl-L-¦Á-lysophosphatidic acid
+Com_6379_neg,Uridine monophosphate (UMP)
+Com_6622_neg,2'-Deoxycytidine 5'-monophosphate (dCMP)
+Com_7179_neg,Homogentisic acid
+Com_7621_neg,L-Dopa
+Com_7871_neg,3-Phenyllactic acid
+Com_8848_neg,2'-Deoxyadenosine 5'-monophosphate (dAMP)
+Com_8909_neg,4-Hydroxyphenylpyruvic acid
+Com_9020_neg,L-Cysteine-S-sulfate
+Com_9133_neg,2-Isopropylmalic acid
+Com_16617_neg,2-Hydroxyhippuric acid
+Com_22911_neg,D-(-)-Quinic acid
+Com_73_neg,Cholic acid
+Com_66_neg,L-Phenylalanine
+Com_4_neg,Docosahexaenoic acid
+Com_361_neg,Genistein
+Com_520_neg,Daidzein
+Com_502_neg,Pantothenic acid
+Com_212_neg,Glycocholic acid
+Com_3923_neg,5-Hydroxytryptophan
+Com_438_neg,N-Acetyl-DL-glutamic acid
+Com_456_neg,Xanthosine
+Com_956_neg,Indole-3-lactic acid
+Com_3451_neg,Glycoursodeoxycholic acid
+Com_35_neg,Taurochenodeoxycholic acid
+Com_3002_neg,N-Acetyl-DL-tryptophan
+Com_3730_neg,3'-Adenosine monophosphate (3'-AMP)
+Com_1878_neg,4-Pyridoxic acid
+Com_4374_neg,Uridine
+Com_1987_neg,N-Acetyl-1-aspartylglutamic acid
+Com_3411_neg,N-Acetylneuraminic acid
+Com_2968_neg,Dulcitol
+Com_3724_neg,Adenosine 5'-monophosphate
+Com_8038_neg,Guanosine
+Com_8255_neg,2'-O-Methylguanosine
+Com_33082_neg,D-Glucosamine 6-phosphate
+Com_18_neg,Adrenic acid
+Com_11237_neg,Quinolinic acid
+Com_1185_neg,Thymidine
+Com_12878_neg,L-Cystine
+Com_312_neg,N-Acetyl-L-methionine
+Com_1058_neg,Inosine-5'-monophosphate (IMP)
+Com_674_neg,Azelaic acid
+Com_1_neg,Elaidic acid
+Com_6_neg,ST 24:1;O4;T
+Com_12_neg,Ethyl myristate
+Com_16_neg,16-Hydroxyhexadecanoic acid
+Com_31_neg,Succinic acid
+Com_40_neg,"11(Z),14(Z)-Eicosadienoic Acid"
+Com_58_neg,¦Â-Muricholic acid
+Com_72_neg,LPE O-16:1
+Com_80_neg,11(E)-Eicosenoic Acid
+Com_84_neg,2-Hydroxyvaleric acid
+Com_90_neg,N-(4-chlorophenyl)-N'-cyclohexylthiourea
+Com_95_neg,D-¦Á-Hydroxyglutaric acid
+Com_99_neg,LPE O-18:2
+Com_106_neg,4-Oxoproline
+Com_107_neg,DL-Malic acid
+Com_119_neg,2-Hydroxy-4-methylthiobutanoic acid
+Com_140_neg,LPE O-18:1
+Com_146_neg,3-Methylglutaric acid
+Com_155_neg,2-Methylglutaric acid
+Com_177_neg,(¡À)9(10)-DiHOME
+Com_216_neg,3-Hydroxybutyric acid
+Com_231_neg,4-Hydroxymandelonitrile
+Com_232_neg,2-Hydroxycaproic acid
+Com_234_neg,Lauric acid ethyl ester
+Com_255_neg,LPI 20:4
+Com_291_neg,FAHFA 18:3/18:0
+Com_336_neg,trans-10-Heptadecenoic acid
+Com_341_neg,2-deoxyribose 5-phosphate
+Com_391_neg,3-Isopropylmalic acid
+Com_394_neg,Glutaric acid
+Com_405_neg,LPE O-18:3
+Com_426_neg,Methyl acetoacetate
+Com_460_neg,Tretinoin
+Com_501_neg,Chenodeoxycholic Acid
+Com_524_neg,Methylsuccinic acid
+Com_525_neg,Glutaconic acid
+Com_530_neg,2-Hydroxymyristic acid
+Com_535_neg,LPS 18:0
+Com_557_neg,Hydrocinnamic acid
+Com_561_neg,LPS 22:6
+Com_607_neg,2-Methyl-3-hydroxybutyric acid
+Com_625_neg,5-Methoxypsoralen
+Com_634_neg,FAHFA 20:4/20:3
+Com_697_neg,(¡À)17(18)-DiHETE
+Com_756_neg,"¦Ä-Ribono-1,4-lactone"
+Com_769_neg,ST 27:1;O;S
+Com_794_neg,LPG 16:0
+Com_824_neg,Maleic acid
+Com_830_neg,LPG 18:2
+Com_888_neg,N-Acetylalanine
+Com_909_neg,Mestranol
+Com_936_neg,(¡À)8(9)-DiHET
+Com_937_neg,FAHFA 22:6/20:3
+Com_973_neg,LPG 18:1
+Com_997_neg,Picolinic acid
+Com_1019_neg,Ethylmalonic acid
+Com_1026_neg,4-Methylphenol
+Com_1062_neg,FAHFA 20:3/18:0
+Com_1072_neg,(¡À)11-HETE
+Com_1089_neg,Deoxyribose 5-Phosphate
+Com_1097_neg,Decanoic acid
+Com_1151_neg,FAHFA 18:1/20:3
+Com_1156_neg,cholesteryl sulfate
+Com_1192_neg,Citrulline
+Com_1200_neg,D-Mannose 6-phosphate
+Com_1207_neg,FAHFA 20:3/20:2
+Com_1210_neg,Levulinic acid
+Com_1216_neg,FAHFA 20:4/18:1
+Com_1234_neg,N-Lauroylsarcosine
+Com_1259_neg,"(2R)-2,3-Dihydroxypropanoic acid"
+Com_1271_neg,3-Phosphoglyceric acid
+Com_1330_neg,LPI 22:6
+Com_1365_neg,LPS 18:1
+Com_1383_neg,15(S)-HpETE
+Com_1397_neg,Fumaric acid
+Com_1427_neg,Imidazoleacetic acid
+Com_1438_neg,Ascorbyl stearate
+Com_1467_neg,(3-Methoxy-4-hydroxyphenyl)ethylene glycol sulfate
+Com_1551_neg,3-Ureidopropionic acid
+Com_1625_neg,LPA 18:2
+Com_1694_neg,4-Acetamidobutanoic acid
+Com_1706_neg,3-Hydroxybenzoic acid
+Com_1712_neg,6-Ketoprostaglandin F1¦Á
+Com_1803_neg,LPI 22:5
+Com_1816_neg,FAHFA 22:4/18:0
+Com_1818_neg,LPA 18:0
+Com_1819_neg,FAHFA 18:2/20:4
+Com_1868_neg,(¡À)19(20)-DiHDPA
+Com_1875_neg,2-Hydroxyphenylacetic acid
+Com_1882_neg,LPI 20:3
+Com_1929_neg,(+/-)8(9)-DiHET
+Com_1967_neg,11-dehydro Thromboxane B2
+Com_2009_neg,trans-Petroselinic Acid
+Com_2017_neg,Corchorifatty acid F
+Com_2025_neg,6¦Á-Prostaglandin I1
+Com_2119_neg,LPI 18:1
+Com_2135_neg,"3-[(methoxycarbonyl)amino]-2,2,3-trimethylbutanoic acid"
+Com_2138_neg,(¡À)9-HpODE
+Com_2144_neg,LPE O-17:2
+Com_2155_neg,10-Hydroxydecanoic acid
+Com_2205_neg,FAHFA 22:5/18:1
+Com_2256_neg,FAHFA 16:0/18:0
+Com_2271_neg,PE O-21:2_18:2
+Com_2282_neg,5-Aminopentanoate
+Com_2293_neg,ST 24:1;O4/18:2
+Com_2297_neg,"N1-[4-(acetylamino)phenyl]-2,2-dimethylcyclopropane-1-carboxamide"
+Com_2306_neg,Glycerol 3-phosphate
+Com_2313_neg,"13,14-dihydro-19(R)-hydroxy Prostaglandin E1"
+Com_2381_neg,2-Aminoadipic acid
+Com_2416_neg,Sulfaquinoxaline
+Com_2453_neg,Xanthohumol
+Com_2455_neg,trans-Cinnamic acid
+Com_2456_neg,D-(+)-Tryptophan
+Com_2463_neg,2-(Dimethylamino)Guanosine
+Com_2482_neg,FAHFA 20:3/22:5
+Com_2516_neg,alpha-Keto-gamma-(methylthio)butyric acid
+Com_2517_neg,11-Deoxy prostaglandin F2¦Â
+Com_2529_neg,"2,3-dinor Prostaglandin E1"
+Com_2533_neg,Glu-Gln
+Com_2579_neg,4-Hydroxybutyric acid (GHB)
+Com_2626_neg,2-Butoxyacetic acid
+Com_2659_neg,4-(octyloxy)benzoic acid
+Com_2675_neg,"9-(3-O-Methylpentofuranosyl)-1,9-dihydro-6H-purin-6-one"
+Com_2679_neg,N-Acetyl-D-galactosamine 4-sulfate
+Com_2683_neg,Saccharin
+Com_2687_neg,"3-(1,1,2,3,3,3-hexafluoropropyl)adamantane-1-carboxylic acid"
+Com_2726_neg,5-Methoxyindoleacetic acid
+Com_2727_neg,3-Hydroxyanthranilic acid
+Com_2748_neg,"1a,1b-Dihomo prostaglandin F2¦Á"
+Com_2794_neg,"2,3-Dihydroxybenzoic acid"
+Com_2802_neg,Salvinorin B
+Com_2819_neg,LPI 16:0
+Com_2841_neg,LPE O-17:1
+Com_2987_neg,Lipoic acid
+Com_3031_neg,LPG O-17:2
+Com_3037_neg,Milbemectin A3
+Com_3078_neg,LPE O-15:1
+Com_3082_neg,Dithranol
+Com_3089_neg,LPC 20:5
+Com_3141_neg,L-Threonic acid
+Com_3159_neg,L-(-)-3-Phenyllactic acid
+Com_3170_neg,Ascorbic acid
+Com_3172_neg,12-Hydroxydodecanoic acid
+Com_3187_neg,LPE O-18:0
+Com_3195_neg,LPS 22:5
+Com_3212_neg,3-Hydroxydecanoic acid
+Com_3219_neg,FAHFA 18:1/22:5
+Com_3249_neg,LPE O-20:3
+Com_3295_neg,FAHFA 22:4/20:3
+Com_3373_neg,LNAPE 18:2/N-20:1
+Com_3374_neg,"8(S),15(S)-DiHETE"
+Com_3377_neg,LPA 22:6
+Com_3403_neg,D-Threose
+Com_3415_neg,ethyl 3-[(1-benzyl-4-piperidyl)amino]-2-cyanoacrylate
+Com_3452_neg,19(R)-Hydroxy prostaglandin F1¦Á
+Com_3462_neg,FAHFA 22:5/20:2
+Com_3544_neg,LPG 17:1
+Com_3609_neg,PE 18:0_20:4
+Com_3647_neg,"N1-(3-amino-4-chlorophenyl)-2-[2,4-di(tert-pentyl)phenoxy]acetamide"
+Com_3657_neg,8-iso Prostaglandin A2
+Com_3664_neg,8-iso Prostaglandin F2¦Á Ethanolamide
+Com_3684_neg,ent-8-iso Prostaglandin F2¦Á
+Com_3742_neg,Myricetin
+Com_3804_neg,15(R)-Prostaglandin E2
+Com_3912_neg,3-Hydroxy-3-methylglutaric acid
+Com_3948_neg,4-Anisic acid
+Com_3981_neg,"N,N-dimethyl-N'-(2-thienylmethyl)thiourea"
+Com_4011_neg,N-(4-chlorophenethyl)-1-adamantanecarboxamide
+Com_4063_neg,(¡À)18-HEPE
+Com_4068_neg,FAHFA 16:0/18:1
+Com_4090_neg,"13,14-Dihydro-15-keto prostaglandin F2¦Á"
+Com_4102_neg,LPE O-19:2
+Com_4124_neg,Glucose 1-phosphate
+Com_4231_neg,FAHFA 18:0/20:2
+Com_4280_neg,19(R)-hydroxy Prostaglandin A2
+Com_4302_neg,4-Methylhippuric acid
+Com_4420_neg,FAHFA 16:0/22:4
+Com_4543_neg,Geranylgeranyl pyrophosphate
+Com_4578_neg,Hexanoic acid
+Com_4752_neg,LPG 18:0
+Com_4850_neg,ethyl 3-[(4-chlorophenethyl)amino]-2-cyanoacrylate
+Com_4857_neg,Mycophenolic acid
+Com_4895_neg,FAHFA 18:2/3:0
+Com_5008_neg,LPG 19:1
+Com_5012_neg,FAHFA 16:0/18:2
+Com_5015_neg,N-(1-benzothiophen-3-yl)-N'-(1-benzyl-4-piperidinyl)urea
+Com_5046_neg,PE O-16:1_20:5
+Com_5085_neg,FAHFA 16:1/18:3
+Com_5106_neg,FAHFA 22:5/20:3
+Com_5110_neg,FAHFA 18:2/22:5
+Com_5132_neg,FAHFA 18:3/7:0
+Com_5254_neg,20-Carboxy-Leukotriene B4
+Com_5255_neg,D-Xylonic Acid
+Com_5268_neg,FAHFA 20:2/22:4
+Com_5278_neg,(¡À)5(6)-DiHET
+Com_5303_neg,4-((5-(4-Nitrophenyl)oxazol-2-yl)amino)benzonitrile
+Com_5340_neg,SM 38:5;3O
+Com_5383_neg,FAHFA 20:2/18:0
+Com_5384_neg,2'-Deoxyinosine 5'-monophosphate
+Com_5440_neg,4-Aminobenzoic acid
+Com_5504_neg,LPG 14:0
+Com_5523_neg,Xanthurenic acid
+Com_5531_neg,LPE O-20:1
+Com_5634_neg,¦¤17-6-keto prostaglandin F1¦Á
+Com_5635_neg,¦Ä-Gluconic acid ¦Ä-lactone
+Com_5679_neg,PG 16:0_18:1
+Com_5688_neg,Phylloquinone
+Com_5713_neg,LPS 20:4
+Com_5737_neg,PG O-10:0_18:3
+Com_5779_neg,cis-Aconitic acid
+Com_5789_neg,FAHFA 16:1/18:2
+Com_5887_neg,19(R)-Hydroxy-prostaglandin E2
+Com_5958_neg,PC 17:0_22:6
+Com_5985_neg,2-(1-{2-[(3-furylmethyl)amino]-2-oxoethyl}cyclohexyl)acetic acid
+Com_6013_neg,FAHFA 20:5/18:2
+Com_6015_neg,FAHFA 14:0/18:2
+Com_6045_neg,Theophylline
+Com_6048_neg,Sorbitan monostearate
+Com_6055_neg,AKB48 N-pentanoic acid metabolite
+Com_6191_neg,Indole-3-butyric acid
+Com_6239_neg,"5-heptyl-4-hydroxy-6H-pyrido[3,2,1-jk]carbazol-6-one"
+Com_6384_neg,PE O-17:1_22:5
+Com_6391_neg,Ursolic acid
+Com_6403_neg,Dihydroroseoside
+Com_6483_neg,Prostaglandin E1 Ethanolamide
+Com_6541_neg,LPG 15:0
+Com_6569_neg,LPG 20:3
+Com_6571_neg,LPE O-16:2
+Com_6599_neg,8-iso-15-keto Prostaglandin E2
+Com_6695_neg,Psychosine
+Com_6701_neg,LPG 20:2
+Com_6821_neg,LPS 18:2
+Com_6864_neg,12-epi Leukotriene B4
+Com_6981_neg,Orotidine
+Com_7108_neg,PG 14:0_18:1
+Com_7129_neg,(+/-)5-iPF2¦Á-VI
+Com_7161_neg,Ofloxacin impurity E
+Com_7177_neg,DL-Mandelic acid
+Com_7217_neg,PE O-18:2_18:2
+Com_7264_neg,Cer 22:3;3O/18:1;(2OH)
+Com_7265_neg,FAHFA 16:0/22:5
+Com_7270_neg,"1a,1b-Dihomo prostaglandin E1"
+Com_7350_neg,2-Hydroxy glutaric acid
+Com_7412_neg,11-deoxy Corticosterone
+Com_7430_neg,THC
+Com_7431_neg,Cer 22:3;3O/18:2;(2OH)
+Com_7496_neg,FAHFA 18:1/22:4
+Com_7513_neg,FAHFA 10:0/18:1
+Com_7602_neg,LNAPE 18:2/N-17:0
+Com_7636_neg,FAHFA 20:3/18:2
+Com_7675_neg,FAHFA 18:3/16:0
+Com_7700_neg,NAGly 22:6/22:1
+Com_7732_neg,PG 18:2_18:2
+Com_7769_neg,FAHFA 12:0/18:0
+Com_7897_neg,"3-(2-thienyl)-1,2,4-oxadiazole-5-carbohydrazide"
+Com_7919_neg,Thromboxane B3
+Com_7959_neg,"N-[3-(aminosulfonyl)phenyl]-2,3-dihydro-1,4-benzodioxine-2-carboxamide"
+Com_7975_neg,"13,14-dihydro-15-keto-tetranor Prostaglandin F1¦Â"
+Com_7996_neg,"3-[(4-chlorophenyl)thio]-1-(3-pyridylmethyl)pyrrolidine-2,5-dione"
+Com_8192_neg,(+/-)19(20)-DiHDPA
+Com_8193_neg,FAHFA 20:1/22:3
+Com_8218_neg,Dl-Glyceraldehyde3-phosphate
+Com_8453_neg,Caffeic acid
+Com_8463_neg,2-Methoxyestradiol
+Com_8649_neg,PC O-16:1_22:6
+Com_8708_neg,Indole-3-pyruvic acid
+Com_8713_neg,LPS 16:0
+Com_8719_neg,FAHFA 4:0/18:0
+Com_8753_neg,Gluconolactone
+Com_8754_neg,3-Hydroxyflavone
+Com_8763_neg,ST 24:1;O4/20:4
+Com_8825_neg,ST 24:1;O4;T/16:0
+Com_8858_neg,Thromboxane B1
+Com_9015_neg,Salsolinol
+Com_9021_neg,S-Sulfo-L-cysteine
+Com_9234_neg,Prostaglandin H2
+Com_9241_neg,3-Methyluridine
+Com_9243_neg,¦Â-D-Glucopyranuronic acid
+Com_9312_neg,Tenofovir
+Com_9406_neg,FAHFA 22:4/22:5
+Com_9523_neg,FAHFA 5:0/18:0
+Com_9702_neg,Cer 16:2;2O/18:0;(3OH)
+Com_10144_neg,"4,5-diphenyl-2,3-dihydro-1H-pyrazolo[3,4-c]pyridazin-3-one"
+Com_10168_neg,LNAPE 20:4/N-20:0
+Com_10169_neg,"N1-cyclohexyl-4-(4-fluorobenzyl)-1,4-diazepane-1-carbothioamide"
+Com_10206_neg,Lactobionic acid
+Com_10335_neg,LPE O-20:0
+Com_10347_neg,Cytidine-5'-monophosphate
+Com_10454_neg,Cer 18:0;3O/16:0
+Com_10503_neg,Pyridoxal-5'-phosphate
+Com_10518_neg,NAGly 18:2/14:0
+Com_10523_neg,PC 14:0_16:0
+Com_10537_neg,FAHFA 22:6/3:0
+Com_10652_neg,Hexadecanedioic acid
+Com_10700_neg,Pimelic acid
+Com_10781_neg,FAHFA 18:2/16:1
+Com_10849_neg,ST 24:1;O4;G;S
+Com_10881_neg,FAHFA 18:0/3:0
+Com_10884_neg,PE O-16:1_22:6
+Com_10976_neg,LPE O-20:4
+Com_11037_neg,FAHFA 22:6/16:0
+Com_11076_neg,Gibberellic acid
+Com_11261_neg,1-Methylguanosine
+Com_11262_neg,Hesperetin
+Com_11322_neg,LPS 20:3
+Com_11350_neg,ST 28:1;O;S
+Com_11352_neg,LPI 22:4
+Com_11545_neg,N'-(4-chlorophenyl)-4-ethylbenzohydrazide
+Com_11560_neg,Tridecylic acid
+Com_11567_neg,"1-(4-methylphenyl)-3-(2-pyridylthio)pyrrolidine-2,5-dione"
+Com_11577_neg,JWH 018 N-pentanoic acid metabolite
+Com_11590_neg,Cer 20:1;2O/16:2;O(FA 20:1)
+Com_11758_neg,PE 18:0_22:5
+Com_11765_neg,(¡À)10(11)-EpDPA
+Com_11808_neg,4-(9H-fluoren-9-yl)pyridine
+Com_11809_neg,LPG O-18:4
+Com_11833_neg,"N1-[4-(aminosulfonyl)phenyl]-2,2-dimethylpropanamide"
+Com_11861_neg,LPG 22:5
+Com_11962_neg,LNAPE 18:2/N-26:6
+Com_11969_neg,Cer 15:0;2O/15:0;O(FA 16:0)
+Com_12072_neg,PC 18:1_22:5
+Com_12079_neg,15-keto Prostaglandin E1
+Com_12148_neg,"8,12-iso-iPF2¦Á-VI"
+Com_12200_neg,Prostaglandin A1 ethyl ester
+Com_12353_neg,Cer 18:2;2O/18:2
+Com_12409_neg,ST 24:1;O4/18:1
+Com_12561_neg,Stachyose
+Com_12581_neg,N1-piperidinocarbonyl-4-methylbenzene-1-sulfonamide
+Com_12590_neg,LNAPE 22:6/N-17:1
+Com_12638_neg,PG O-10:0_22:5
+Com_12655_neg,"Glucuronic acid-3,6-lactone"
+Com_12733_neg,N-Glycolylneuraminic acid
+Com_12736_neg,Androsterone glucuronide
+Com_12921_neg,Ala-trp
+Com_12957_neg,"6-phospho-D-glucono-1,5-lactone"
+Com_12995_neg,"5-[(Benzoyloxy)methyl]-4,5,6-trihydroxy-2-cyclohexen-1-yl benzoate"
+Com_12997_neg,ST 24:1;O4;T/20:4
+Com_13019_neg,CUMYL-PICA N-pentanoic acid metabolite
+Com_13045_neg,ST 24:1;O4;T/18:1
+Com_13049_neg,(¡À)9(10)-EpOME
+Com_13102_neg,¦Â-Estradiol-17¦Â-glucuronide
+Com_13151_neg,Protoporphyrin IX
+Com_13196_neg,19(R)-Hydroxy prostaglandin F2¦Á
+Com_13333_neg,LPA 22:4
+Com_13372_neg,Cannabidiolic acid
+Com_13384_neg,6-Thioinosine-phosphate
+Com_13472_neg,LNAPE 20:4/N-17:1
+Com_13517_neg,Prostaglandin D3
+Com_13613_neg,8-iso-15-keto Prostaglandin F2¦Á
+Com_13781_neg,Monobenzyl phthalate
+Com_13865_neg,"(2S)-4-Oxo-2-phenyl-3,4-dihydro-2H-chromen-7-yl beta-D-glucopyranoside"
+Com_13871_neg,NAGly 22:6/21:0
+Com_13993_neg,11-keto Testosterone (CRM)
+Com_13995_neg,2-Hydroxyestradiol
+Com_14113_neg,FAHFA 22:4/20:1
+Com_14140_neg,LPS 22:4
+Com_14345_neg,PC 18:0_18:1
+Com_14418_neg,"4,6-dimethyl-2,7-diphenyl-3,7-dihydro-2H-pyrazolo[3,4-b]pyridin-3-one"
+Com_14493_neg,Cer 18:2;2O/10:0
+Com_14584_neg,FAHFA 2:0/24:0
+Com_14628_neg,Hydroxykynurenine
+Com_14737_neg,FAHFA 22:6/18:3
+Com_14782_neg,Scopoletin
+Com_14846_neg,LPG 18:3
+Com_14918_neg,LNAPE 22:6/N-22:6
+Com_14959_neg,FAHFA 18:3/16:2
+Com_15018_neg,LPE O-19:1
+Com_15107_neg,2-[6-(1H-benzo[d]imidazol-2-yl)-2-pyridyl]-1H-benzo[d]imidazole
+Com_15144_neg,LNAPE 20:4/N-20:2
+Com_15338_neg,Phenylacetaldehyde
+Com_15347_neg,PC(16:0/16:0)
+Com_15385_neg,(+/-)10(11)-EpDPA
+Com_15398_neg,Prostaglandin F2¦Â
+Com_15412_neg,FAHFA 18:0/18:0
+Com_15439_neg,LPS 20:0
+Com_15585_neg,LPG O-19:2
+Com_15740_neg,PC 18:3_20:4
+Com_15787_neg,"1-[(1R,2S,3R,5R)-5-Cyclohexyl-2,3-dihydroxycyclopentyl]-3-ethylurea"
+Com_15807_neg,PE O-17:1_22:6
+Com_15829_neg,FAHFA 16:1/18:1
+Com_15965_neg,Rutarin
+Com_15998_neg,NAGly 22:6/19:0
+Com_16142_neg,ST 24:1;O2;G
+Com_16274_neg,Glycodeoxycholic Acid (hydrate)
+Com_16385_neg,L-Threonic acid Calcium Salt
+Com_16474_neg,Catechin
+Com_16485_neg,"2,5-Dimethylphenol"
+Com_16647_neg,6-Phosphogluconic acid
+Com_16751_neg,PC 16:0_20:3
+Com_16842_neg,"3-(4,5-diphenyl-1H-imidazol-2-yl)pyridine"
+Com_16857_neg,Nigericin
+Com_16984_neg,Cer 18:0;3O/24:2;(2OH)
+Com_17106_neg,ADBICA N-pentanoic acid metabolite
+Com_17146_neg,Hostanox O3
+Com_17216_neg,PC 16:0_18:3
+Com_17332_neg,LPA 16:0
+Com_17590_neg,ST 24:1;O4/16:0
+Com_17624_neg,"D-Ribulose 1,5-bisphosphate"
+Com_17663_neg,2-(acetylamino)-4-(methylthio)butanoic acid
+Com_18153_neg,nor-6¦Â-Oxycodol
+Com_18154_neg,Cer 18:0;3O/24:1;(2OH)
+Com_18217_neg,Cer 19:2;2O/16:0;(2OH)
+Com_18296_neg,5(S)-HpEPE
+Com_18301_neg,FAHFA 18:2/17:0
+Com_18333_neg,HexCer 14:0;3O/20:1;(2OH)
+Com_18363_neg,Biocytin
+Com_18388_neg,PC 18:3_22:6
+Com_18403_neg,Syringic acid
+Com_18419_neg,PC 16:0_20:4;2O
+Com_18477_neg,1-[6-(benzyloxy)-3-(tert-butyl)-2-hydroxyphenyl]ethan-1-one
+Com_18706_neg,NAGly 20:2/26:0
+Com_18835_neg,NAGly 18:1/14:0
+Com_18876_neg,FAHFA 20:2/24:4
+Com_18990_neg,11-trans Leukotriene C4
+Com_19087_neg,PC 17:0_20:4
+Com_19090_neg,LNAPE 22:6/N-18:1
+Com_19163_neg,MAM2201 N-pentanoic acid metabolite
+Com_19225_neg,Docosanoic Acid
+Com_19237_neg,FAHFA 18:3/18:3
+Com_19295_neg,"(1E)-1,7-bis(4-hydroxyphenyl)hept-1-en-3-one"
+Com_19401_neg,Cannabichromevarin
+Com_19431_neg,LNAPE 20:3/N-18:0
+Com_19482_neg,Butylparaben
+Com_19687_neg,2'-Deoxyuridine-5-monophosphate
+Com_19856_neg,"(2E)-4-Hydroxy-3,7-dimethyl-2,6-octadien-1-yl beta-D-glucopyranoside"
+Com_19895_neg,LPA 20:0
+Com_19911_neg,FAHFA 4:0/16:0
+Com_19982_neg,PE O-17:2_22:6
+Com_20207_neg,PC 16:0_20:4;O
+Com_20216_neg,Oxoadipic Acid
+Com_20217_neg,Aldosterone
+Com_20385_neg,Prostaglandin F3¦Á
+Com_20398_neg,PEtOH 16:0_20:4
+Com_20438_neg,PC 16:1_22:6
+Com_20449_neg,Calcitriol
+Com_20487_neg,4-Hydroxy-L-Glutamic Acid
+Com_20522_neg,LNAPE 18:2/N-20:0
+Com_20531_neg,N-Sulfo-glucosamine sodium salt
+Com_20622_neg,"11(Z),14(Z),17(Z)-Eicosatrienoic acid"
+Com_20654_neg,FAHFA 18:2/12:0
+Com_20931_neg,FAHFA 20:5/21:0
+Com_20987_neg,LPI 17:0
+Com_21311_neg,[4-(1H-indol-4-yl)piperazino](2-thienyl)methanone
+Com_21326_neg,Cer 18:1;2O/16:0;(2OH)
+Com_21331_neg,Benzyl 6-O-beta-D-glucopyranosyl-beta-D-glucopyranoside
+Com_21597_neg,FAHFA 16:1/16:1
+Com_21662_neg,Prostaglandin F1¦Â
+Com_21669_neg,"1,4-dimethyl-3-phenyl-1H-pyrazolo[3,4-b]pyridin-6-ol"
+Com_21688_neg,PE O-18:0_22:5
+Com_21760_neg,Ouabain
+Com_21772_neg,"13,14-dihydro Prostaglandin F1¦Á"
+Com_21834_neg,LPS 19:0
+Com_21835_neg,LPA 20:4
+Com_22101_neg,Kynurenine
+Com_22143_neg,PS 18:0_22:6
+Com_22169_neg,PC O-22:6_18:2
+Com_22318_neg,PE O-19:1_18:4
+Com_22573_neg,7-Hydroxy-4-chromone
+Com_22629_neg,8-iso Prostaglandin A1
+Com_22707_neg,Sorbitan monooleate
+Com_22733_neg,Cer 19:2;2O/18:0;(3OH)
+Com_22814_neg,Gibberellin A7
+Com_22864_neg,PEtOH 16:0_18:2
+Com_22870_neg,HexCer 14:0;3O/18:1;(2OH)
+Com_22946_neg,Phenobarbital
+Com_22984_neg,SM 8:1;2O/26:1
+Com_23113_neg,ST 24:1;O4;T/22:6
+Com_23156_neg,FAHFA 17:0/20:1
+Com_23204_neg,NAGly 22:6/22:4
+Com_23256_neg,Spiculisporic Acid
+Com_23388_neg,Hex2Cer 13:0;2O
+Com_23780_neg,PC 14:0_18:2
+Com_23823_neg,Erucic acid
+Com_23948_neg,2-Aminobenzenesulfonamide
+Com_24012_neg,PC 18:1_20:4
+Com_24054_neg,Cer 14:0;2O/16:4;(3OH)(FA 20:6)
+Com_24068_neg,FAHFA 19:1/22:4
+Com_24170_neg,Glucosamine 6-sulfate
+Com_24306_neg,FAHFA 14:1/16:3
+Com_24333_neg,FAHFA 18:1/19:2
+Com_24342_neg,FAHFA 17:0/18:0
+Com_24470_neg,"13,14-Dihydro-15-keto Prostaglandin E1"
+Com_24584_neg,"ethyl 3-(1,3-benzodioxol-5-ylamino)-2-cyanoacrylate"
+Com_24713_neg,"2-(1H-1,2,3-benzotriazol-1-yl)-N-(2,3-dihydro-1H-inden-2-yl)acetamide"
+Com_24918_neg,Cer 18:1;2O/17:1
+Com_25103_neg,"1-(2,4-diphenyl-2,3-dihydro-1H-1,5-benzodiazepin-1-yl)propan-1-one"
+Com_25214_neg,Piceatannol
+Com_25375_neg,Cer 16:0;2O/12:0;O(FA 20:1)
+Com_25435_neg,FAHFA 22:6/18:1
+Com_25484_neg,"3',5,7-Trihydroxy-4'-methoxyflavanone"
+Com_25523_neg,FAHFA 2:0/18:0
+Com_25904_neg,PE 16:0_18:1
+Com_26044_neg,2-chloro-6-[(2-oxoazepan-3-yl)amino]benzonitrile
+Com_26572_neg,Prostaglandin H1
+Com_26617_neg,LPG 16:1
+Com_26626_neg,Equol
+Com_26726_neg,"13Z,16Z-Docosadienoic Acid"
+Com_26890_neg,15-Epiprostaglandin E1
+Com_26928_neg,PC 16:0_18:1
+Com_27062_neg,4-Hydroxy-2-Oxoglutaric Acid
+Com_27074_neg,15-Keto prostaglandin A1
+Com_27127_neg,4-morpholino-3-nitrobenzene-1-sulfonamide
+Com_27161_neg,Nervonic acid
+Com_27190_neg,PE 20:4_22:6
+Com_27309_neg,"13,14-dihydro-15-keto-tetranor Prostaglandin D2"
+Com_27449_neg,PC 18:1_20:3
+Com_27526_neg,FAHFA 20:0/18:3
+Com_27635_neg,ethyl 2-nitro-3-(4-nitrophenyl)acrylate
+Com_27716_neg,Hex2Cer 16:0;2O
+Com_27882_neg,N1-(4-butyl-2-methylphenyl)-2-(benzylamino)-2-thioxoacetamide
+Com_27940_neg,Glutamine
+Com_27993_neg,SMGDG O-13:1_26:2
+Com_28008_neg,PE O-21:1_22:6
+Com_28071_neg,LNAPE 20:2/N-26:6
+Com_28228_neg,FAHFA 18:2/6:0
+Com_28272_neg,PE 16:1_22:6
+Com_28352_neg,LPG O-17:1
+Com_28366_neg,PC 16:0_20:3;3O
+Com_28371_neg,ST 24:1;O4;T/16:1
+Com_28412_neg,PE O-21:1_20:4
+Com_28712_neg,LPC O-18:0
+Com_28746_neg,"2,5-di[4-(trifluoromethyl)benzylidene]cyclopentan-1-one"
+Com_28958_neg,FAHFA 24:2/18:0
+Com_29071_neg,ST 24:2;O4
+Com_29331_neg,20-hydroxy Leukotriene B4
+Com_29355_neg,Trehalose
+Com_29394_neg,Adenosine-5'-diphosphoglucose
+Com_29427_neg,2-[2-(5-bromo-2-pyridyl)diaz-1-enyl]-5-(diethylamino)phenol
+Com_29853_neg,FAHFA 18:3/3:0
+Com_29861_neg,Tyrosol
+Com_30011_neg,"7,8-Dihydrofolate"
+Com_30045_neg,12-Epileukotriene B4
+Com_30071_neg,IDP
+Com_30155_neg,PE 16:1_20:4
+Com_30201_neg,Gly-Ile
+Com_30204_neg,PC 16:0_20:4;3O
+Com_30244_neg,FAHFA 20:1/18:0
+Com_30336_neg,2-Hydroxy-4-methylpentanoic acid
+Com_30575_neg,FAHFA 20:1/20:2
+Com_30600_neg,L-Ascorbic acid 2-sulfate
+Com_30868_neg,Monobutyl phthalate
+Com_30919_neg,PG O-16:1_18:1
+Com_30935_neg,ST 24:1;O4;T/18:2
+Com_31033_neg,Hex2Cer 15:2;2O
+Com_31101_neg,Phloretin
+Com_31187_neg,Cnidioside A
+Com_31311_neg,PE O-26:7_18:2
+Com_31428_neg,PC O-18:2_16:0
+Com_31696_neg,FAHFA 18:1/22:3
+Com_32123_neg,5-Dehydroquinic acid
+Com_32328_neg,N-{5-[(dimethylamino)sulfonyl]-2-methylphenyl}cyclohexanecarboxamide
+Com_32383_neg,LPA 22:5
+Com_32476_neg,(+/-)11-HETE
+Com_32564_neg,Prostaglandin E3
+Com_32675_neg,N2-Methylguanosine
+Com_32871_neg,tetranor-PGDM
+Com_33119_neg,"ethyl 3-hydroxy-4,6-dimethoxy-2-oxoindoline-3-carboxylate"
+Com_33204_neg,PE O-17:0_20:4
+Com_33310_neg,LNAPE 22:6/N-18:2
+Com_33808_neg,4-fluoro-N-[4-(4-methylpiperazino)phenyl]benzenesulfonamide
+Com_33818_neg,18-¦Â-Glycyrrhetinic acid
+Com_34019_neg,PE O-22:2_22:4
+Com_34291_neg,FAHFA 20:1/18:1
+Com_34352_neg,PMeOH 18:1_18:1
+Com_34437_neg,"5-Hydroxy-1,4-naphthoquinone"
+Com_34571_neg,FAHFA 20:5/22:5
+Com_34600_neg,"15(R),19(R)-Hydroxy prostaglandin F1¦Á"
+Com_34617_neg,"2,4-dichloro-N-{2-[(2-furylmethyl)amino]-1-methyl-2-oxoethyl}benzamide"
+Com_34796_neg,FAHFA 22:5/20:4
+Com_34923_neg,PE O-16:0_22:4
+Com_34935_neg,FAHFA 18:0/22:2
+Com_34944_neg,LPC O-18:2
+Com_35036_neg,LNAPE 22:5/N-20:5
+Com_35252_neg,NAGly 18:5/21:1
+Com_35636_neg,PC 18:1_22:6
+Com_36341_neg,PC 16:0_22:6;2O
+Com_36535_neg,PC 16:0_18:3;O
+Com_36540_neg,LPG 17:0
+Com_36614_neg,ST 28:2;O;S
+Com_36616_neg,FAHFA 20:4/20:4
+Com_36973_neg,PE O-8:0_20:1
+Com_37069_neg,D-Glucuronic acid
+Com_37327_neg,FAHFA 14:0/16:2
+Com_37353_neg,Cer 18:1;2O/14:0;(2OH)
+Com_37362_neg,acetyl phospahte
+Com_37366_neg,SM 34:1;3O
+Com_37374_neg,PG O-16:2_14:0
+Com_37716_neg,3-(2-naphthyl)-5-(trifluoromethyl)-1H-pyrazole
+Com_37955_neg,N1-tetrahydrofuran-2-ylmethyl-2-cyanoacetamide
+Com_38036_neg,(+/-)8(9)-DiHETE
+Com_38096_neg,FAHFA 18:3/2:0
+Com_38228_neg,NAGly 21:2/16:0
+Com_38299_neg,N2-Acetyl-L-ornithine
+Com_38316_neg,"N-{[2-(2-thienyl)-1,3-thiazol-4-yl]methyl}benzamide"
+Com_38374_neg,3-[3-(beta-D-Glucopyranosyloxy)-2-hydroxyphenyl]propanoic acid
+Com_38429_neg,PE O-19:1_20:4
+Com_38488_neg,FAHFA 20:4/18:2
+Com_38636_neg,alpha-Ketoglutaric acid
+Com_38760_neg,LNAPE 18:3/N-24:4
+Com_39009_neg,17(S)-HpDHA
+Com_39097_neg,Cer 15:0;2O/19:0;O(FA 20:0)
+Com_39111_neg,P-Coumaroyl Agmatine
+Com_39216_neg,Prostaglandin F2¦Á 1-11-lactone
+Com_39274_neg,"N1-(3-cyano-4,6-diphenyl-2-pyridyl)-4-methylbenzamide"
+Com_39366_neg,Sucrose
+Com_39584_neg,Protectin D1
+Com_39731_neg,3-Methylamino-L-alanine
+Com_39887_neg,ST 24:1;O3;G/16:2
+Com_40454_neg,N'1-[1-(2-hydroxyphenyl)ethylidene]-3-methoxybenzene-1-carbohydrazide
+Com_40532_neg,O1-morpholinocarbonyl-3-(trifluoromethyl)-1-benzenecarbohydroximamide
+Com_40719_neg,Cer 18:0;3O/15:0;(2OH)
+Com_41024_neg,Capsaicin
+Com_41110_neg,"N'-(benzoyloxy)-2-(2,2-dichlorocyclopropyl)ethanimidamide"
+Com_41163_neg,Glucobrassicin
+Com_41351_neg,5-(2-pyridinyl)-N-[2-(trifluoromethyl)phenyl]-2-thiophenesulfonamide
+Com_41421_neg,FAHFA 20:4/18:3
+Com_41426_neg,Cer 22:0;2O/12:0;O(FA 14:0)
+Com_41546_neg,HexCer 22:3;2O/15:1;O
+Com_41555_neg,FAHFA 22:3/22:4
+Com_42138_neg,geranyl pp
+Com_42183_neg,"5-[4-(tert-butyl)phenoxy]-6-nitroisoindoline-1,3-dione"
+Com_42296_neg,5'-Deoxy-5'-(Methylthio)Adenosine
+Com_42366_neg,FAHFA 22:3/20:2
+Com_42508_neg,PE 14:0_17:1
+Com_42512_neg,3-Guanidinopropionic acid
+Com_42983_neg,FAHFA 16:0/6:0
+Com_43009_neg,6¦Â-Prostaglandin I1
+Com_43050_neg,D-Glucarate
+Com_43330_neg,LNAPE 20:4/N-17:0
+Com_43681_neg,2-Methoxyestrone
+Com_43754_neg,LPE O-21:0
+Com_43784_neg,PC O-16:1_18:2
+Com_43933_neg,FAHFA 22:1/20:4
+Com_44127_neg,ST 24:1;O4;T/22:5
+Com_44151_neg,MGDG O-8:0_20:4
+Com_44365_neg,PC 16:0_18:0
+Com_44868_neg,PE 18:0_22:5;O
+Com_44914_neg,Reserpine
+Com_45136_neg,FAHFA 17:0/20:3
+Com_45398_neg,FAHFA 18:2/9:0
+Com_45451_neg,FAHFA 20:4/17:2
+Com_45523_neg,PC 18:1_18:2;2O
+Com_45565_neg,Cer 30:0;2O/12:1;O(FA 16:0)
+Com_45731_neg,Cer 30:0;2O/12:1;O(FA 18:2)
+Com_45993_neg,Riboflavin-5-phosphate
+Com_46203_neg,9-Aminoacridine
+Com_46602_neg,L-Cysteinesulfinic acid
+Com_46623_neg,Milbemectin A4
+Com_46732_neg,LPS 18:3
+Com_47083_neg,Hex2Cer 19:0;2O
+Com_47127_neg,Cer 20:0;2O/16:3
+Com_47384_neg,"8(S)-Hydroxy-(5Z,9E,11Z,14Z)-eicosatetraenoic acid"
+Com_47528_neg,LNAPE 18:1/N-17:1
+Com_47550_neg,PG 22:6_22:6
+Com_47551_neg,Guanosine 5'-diphospho-?-L-fucose
+Com_47877_neg,5-(3-chloro-4-methylanilino)-1-methyl-1H-pyrazol-3-ol
+Com_48032_neg,LNAPE 18:2/N-16:0
+Com_48082_neg,NAGly 18:5/20:1
+Com_48664_neg,TPP
+Com_49053_neg,Lypressin Acetate
+Com_49146_neg,3-Hydroxyvaleric acid
+Com_49324_neg,"1-O-(3,4,5-Trimethoxybenzoyl)-beta-L-galactopyranose"
+Com_49430_neg,Salvinorin A
+Com_49759_neg,PE O-19:1_18:2
+Com_49774_neg,N-benzyl-N-methyl-N'-phenylurea
+Com_49966_neg,MGDG O-16:4_12:0
+Com_50485_neg,PC 16:0_22:6;O
+Com_50682_neg,PC 15:0_18:2
+Com_50817_neg,S-(5-Adenosy)-L-Homocysteine
+Com_51047_neg,"16-(Hexopyranosyloxy)-7-hydroxy-8,9-epoxypimaran-18-oic acid"
+Com_51052_neg,Folic acid
+Com_51115_neg,MGDG O-26:5_18:1
+Com_51405_neg,PE O-21:2_20:4
+Com_52154_neg,PE O-19:2_18:2
+Com_52331_neg,PC 18:0_18:1;3O
+Com_52341_neg,J147
+Com_52405_neg,FAHFA 24:4/20:2
+Com_52430_neg,PE 18:0_20:5;O
+Com_52978_neg,PE 18:2_20:4
+Com_53164_neg,MGDG O-24:4_20:4
+Com_53503_neg,NAGly 18:5/22:5
+Com_53590_neg,LPE 16:2
+Com_54038_neg,PG 4:0_18:4
+Com_54122_neg,PG O-14:0_22:3
+Com_54143_neg,LPE 16:0
+Com_54195_neg,SHexCer 39:1;2O
+Com_54334_neg,PE 18:1_22:5;O
+Com_54546_neg,Cer 16:1;2O/18:1;O(FA 19:1)
+Com_54578_neg,PE 18:0_20:4;O
+Com_54631_neg,Capric acid
+Com_54918_neg,LNAPE 18:1/N-26:7
+Com_55374_neg,FAHFA 24:4/20:0
+Com_55500_neg,PE O-18:2_16:1
+Com_55564_neg,Taurolithocholic acid 3-sulfate
+Com_55699_neg,cGMP
+Com_55846_neg,PC 16:0_18:2;2O
+Com_55866_neg,"1,5,8-Trihydroxy-9-oxo-9H-xanthen-3-yl beta-D-glucopyranoside"
+Com_56100_neg,PG O-11:0_20:1
+Com_56264_neg,PC 18:2_22:5
+Com_56529_neg,HBMP 16:0_20:3_12:0
+Com_56611_neg,SHexCer 39:1;3O
+Com_56737_neg,Cer 22:0;2O/12:1;O(FA 18:1)
+Com_56893_neg,Dibenzoyl Thiamine
+Com_56924_neg,"N-[4-(aminosulfonyl)benzyl]-2,1,3-benzoxadiazole-4-sulfonamide"
+Com_56977_neg,Erythronolactone
+Com_57048_neg,PE O-15:1_22:5
+Com_57109_neg,PE O-19:0_20:3
+Com_57865_neg,LNAPE 20:4/N-26:6
+Com_58717_neg,NAGly 18:4/21:0
+Com_59050_neg,LNAPE 18:1/N-17:2
+Com_59418_neg,Methyl-2-hydroxyisobutyric acid
+Com_60150_neg,N-2-Fluorenylacetamide
+Com_60948_neg,Bisphenol A
+Com_61504_neg,PE 18:1_20:2
+Com_61689_neg,Quinic acid
+Com_61813_neg,Cer 18:0;2O/17:0;O(FA 20:1)
+Com_62199_neg,LNAPE 20:5/N-24:5
+Com_62768_neg,ADGGA 20:1_18:4_20:1
+Com_63001_neg,Gibberellin A4
+Com_63276_neg,LPE 22:1
+Com_63352_neg,22(S)-Hydroxycholesterol
+Com_63888_neg,ST 29:1;O;S
+Com_64140_neg,Cer 20:0;2O/12:1;O(FA 20:2)
+Com_64713_neg,LNAPS 22:6/N-3:0
+Com_65221_neg,MGDG O-26:6_16:0
+Com_65383_neg,5-Phosphoribosyl 1-pyrophosphate
+Com_65613_neg,LPC 20:0
+Com_66184_neg,LPC 15:1
+Com_67454_neg,FAHFA 17:1/22:5
+Com_67850_neg,3'-O-Methylguanosine
+Com_68013_neg,glutathione disulfide
+Com_68534_neg,Cer 23:0;3O/12:0;(2OH)
+Com_68951_neg,ST 24:1;O4;S
+Com_69082_neg,Adenosine 5'-diphosphoglucose
+Com_70147_neg,Fosfomycin
+Com_71070_neg,D-Gluconic acid
+Com_71184_neg,LPS 15:0
+Com_74533_neg,6-methyl-5-nitroquinoline
+Com_74839_neg,3-anilino-5-(4-chlorophenyl)cyclohex-2-en-1-one
+Com_75149_neg,Ribulose-5-phosphate
+Com_75604_neg,Inosine 5'-Monophosphate
+Com_76493_neg,"Dl-3,4-Dihydroxymandelic Acid"
+Com_77138_neg,JWH 250 N-pentanoic acid metabolite
+Com_77951_neg,Sorbitan monopalmitate
+Com_78264_neg,Flavin Adenine Dinucleotide
+Com_78315_neg,Neopterin
+Com_79470_neg,Thymidine 5'-diphosphate
+Com_79857_neg,16¦Á-Hydroxyestrone
+Com_80468_neg,Guanidineacetic acid
+Com_82287_neg,LPC 16:3
+Com_82534_neg,beta-N-Methylaminoalanine
+Com_82589_neg,PC 16:0_18:2;O
+Com_82768_neg,6-Sialyllactose
+Com_82874_neg,GDP
+Com_84289_neg,Puromycin
+Com_84464_neg,PC 16:0_18:2
+Com_84814_neg,Inositol
+Com_87037_neg,Trehalose-6-Phosphate
+Com_2348_neg,D-Sphingosine
+Com_9_neg,Docosapentaenoic acid
+Com_19_neg,"all-cis-4,7,10,13,16-Docosapentaenoic acid"
+Com_1796_neg,Lithocholic Acid
+Com_299_neg,N-Acetylsphingosine
+Com_316_neg,LPE 22:6
+Com_93_neg,"3-Oxo-7alpha,12alpha-hydroxy-5beta-cholanoic acid"
+Com_2774_neg,Acetildenafil
+Com_144_neg,13-Hpotre(R)
+Com_2184_neg,Porphobilinogen
+Com_5_neg,Arachidonic acid
+Com_842_neg,LPE 20:4
+Com_6406_neg,N-acetyl-L-ornithine
+Com_17_neg,Eicosapentaenoic acid
+Com_15969_neg,4-(4-nitrophenylazo)aniline
+Com_8360_neg,Pyrogallol
+Com_32_neg,"8Z,11Z,14Z-Eicosatrienoic acid"
+Com_1057_neg,"2,3-Dinor-8-epi-prostaglandin F2¦Á"
+Com_1039_neg,(R)-3-Hydroxy myristic acid
+Com_5322_neg,12-oxo Phytodienoic Acid
+Com_948_neg,2-Methylbutyroylcarnitine
+Com_2474_neg,Mesaconic acid
+Com_534_neg,Adenosine diphosphate (ADP)
+Com_818_neg,(¡À)11(12)-DiHET
+Com_152_neg,Taurine
+Com_3192_neg,gamma-Glutamylmethionine
+Com_981_neg,PE O-18:3_22:6
+Com_593_neg,LPE 19:1
+Com_743_neg,Soyasaponin I
+Com_5168_neg,Traumatic acid
+Com_723_neg,L-Serine
+Com_548_neg,N-lactoyl-phenylalanine
+Com_1007_neg,Octopamine
+Com_181_neg,Lysopc 17:0
+Com_489_neg,Sodium cholate
+Com_251_neg,3-methyl-5-oxo-5-(4-toluidino)pentanoic acid
+Com_2776_neg,6-Hydroxymelatonin
+Com_63_neg,Deoxycholic acid
+Com_1941_neg,LPE 22:5
+Com_26_neg,(+/-)12(13)-DiHOME
+Com_243_neg,N-Acetylvaline
+Com_14570_neg,Anacardic acid
+Com_262_neg,LPC 16:0
+Com_36554_neg,Thromoboxane B1
+Com_1912_neg,Asp-Phe methyl ester
+Com_8091_neg,gamma-Glutamyltyrosine
+Com_1005_neg,LPC 18:1
+Com_526_neg,Oxaceprol
+Com_2376_neg,L-Tryptophan
+Com_2319_neg,Cyclohexaneacetic acid
+Com_4757_neg,LPE 14:0
+Com_205_neg,N-Oleoyl Glycine
+Com_681_neg,Lysope 16:0
+Com_14097_neg,1-Palmitoyl-Sn-Glycero-3-Phosphocholine
+Com_7828_neg,Undecanedioic acid
+Com_327_neg,Methandrostenolone
+Com_2915_neg,DL-m-Tyrosine
+Com_4148_neg,LPE 18:3
+Com_5270_neg,LPE 20:5
+Com_7562_neg,Levodopa
+Com_15731_neg,Hippuric acid
+Com_13107_neg,Dehydrocholic acid
+Com_7039_neg,LPE 22:4
+Com_254_neg,Docosatrienoic acid
+Com_8266_neg,Quinoline-4-carboxylic acid
+Com_21_neg,Stearic acid
+Com_3052_neg,Propionyl-L-carnitine
+Com_3285_neg,Pentadecanoic acid
+Com_7706_neg,Reduced nicotinamide adenine dinucleotide
+Com_4145_neg,Bz-RS-ISer(3-Ph)-Ome
+Com_4706_neg,11-Ketoetiocholanolone
+Com_11123_neg,LPE 20:3
+Com_10791_neg,Tetradecanedioic acid
+Com_10334_neg,2'-Deoxycytidine
+Com_2870_neg,Cortodoxone
+Com_12440_neg,LysoPE 18:2
+Com_3045_neg,Homo-Gamma-Linolenic Acid (C20:3)
+Com_13371_neg,Guggulsterone
+Com_966_neg,Mevalonic acid
+Com_9699_neg,Tauroursodeoxycholic acid
+Com_44297_neg,Pregnenolone
+Com_9920_neg,Jasmonic acid
+Com_3492_neg,L-Palmitoylcarnitine
+Com_8467_neg,Nicotinuric Acid
+Com_23937_neg,Cer 18:2;2O/14:0
+Com_6394_neg,N6-Succinyl Adenosine
+Com_1455_neg,L-Adrenaline
+Com_11607_neg,Metanephrine
+Com_7991_neg,5-Methyl-2'-deoxycytidine
+Com_1733_neg,Capryloylglycine
+Com_1006_neg,(2E)-N-(4-acetamidobutyl)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enamide
+Com_9603_neg,Deoxycorticosterone 21-glucoside
+Com_1274_neg,Phenylpyruvic acid
+Com_2219_neg,"8,15-Dihete"
+Com_6764_neg,lithocholic acid 3-sulfate
+Com_2288_neg,Leu-Pro
+Com_37071_neg,4-[2-(2-methylphenyl)-2-oxoethyl]benzamide
+Com_10021_neg,LysoPC 10:0
+Com_734_neg,17-AAG
+Com_12277_neg,Cer 18:1;2O/10:0
+Com_5771_neg,5-(tert-butyl)-2-methyl-N-(5-methyl-3-isoxazolyl)-3-furamide
+Com_3004_neg,Lysope 18:1
+Com_9113_neg,LPE 12:0
+Com_11035_neg,15-OxoEDE
+Com_12479_neg,Maltotriose
+Com_3711_neg,LPC 16:1
+Com_3372_neg,Phenylglyoxylic acid
+Com_4550_neg,Tetranor-12R-HETE
+Com_3956_neg,N-acetyl-D-glucosamine
+Com_12146_neg,"4-(2,3-dihydrobenzo[b]furan-5-yl)pyrimidine-2-thiol"
+Com_2145_neg,Purine
+Com_7478_neg,L-Saccharopine
+Com_7790_neg,2-Phenylpropionic acid
+Com_18458_neg,N-Acetyl-D-tryptophan
+Com_8933_neg,2-(Formylamino)Benzoic Acid
+Com_1873_neg,Glycolithocholic acid
+Com_20235_neg,Melatonin
+Com_633_neg,Glycyl-L-leucine
+Com_10285_neg,4-Hydroxyretinoic Acid
+Com_17359_neg,1-Methyluric acid
+Com_9837_neg,D-Fructose 6-phosphate
+Com_39666_neg,Dl-3-Hydroxy-kynurenine
+Com_13376_neg,Prostaglandin E2
+Com_10778_neg,¦Á-Estradiol
+Com_14176_neg,LPC 17:1
+Com_4005_neg,5-Hydroxymethyluracil
+Com_13353_neg,D-Ribose
+Com_32274_neg,N-Acetyl-L-tyrosine
+Com_31728_neg,Phe-Phe
+Com_2237_neg,"3,8,9-trihydroxy-10-propyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one"
+Com_9887_neg,2-Deoxyuridine
+Com_8203_neg,Estriol
+Com_3198_neg,3-(3-Methoxyphenyl)propionic acid
+Com_2962_neg,Feruloyl Putrescine
+Com_5406_neg,5¦Á-Dihydrotestosterone
+Com_13076_neg,Biotin
+Com_29617_neg,Delta-Tridecalactone
+Com_16113_neg,"2,6-Dihydroxypurine"
+Com_9678_neg,L-Arabinitol
+Com_200_neg,Lauric acid
+Com_469_neg,LysoPE 18:0
+Com_1303_neg,Isobutyryl carnitine
+Com_5035_neg,Allantoin
+Com_12831_neg,N4-Acetylcytidine
+Com_22199_neg,(-)-Erythromycin
+Com_12616_neg,Prostaglandin G2
+Com_22881_neg,Abametapir
+Com_17695_neg,L-Methionine Methyl Ester
+Com_18625_neg,Pyrithioxin
+Com_3940_neg,o-Veratraldehyde
+Com_14240_neg,S-(Methyl)Glutathione
+Com_11592_neg,Corey Lactone Diol
+Com_9354_neg,LysoPC 12:1
+Com_20488_neg,Deoxyguanosine
+Com_3842_neg,Asaraldehyde
+Com_6297_neg,Kinetin
+Com_16117_neg,2-Isopropylmalate
+Com_3340_neg,N alpha-Acetyl-L-Arginine
+Com_71892_neg,Arachidic Acid
+Com_6378_neg,5-Methyl-dl-tryptophan
+Com_7480_neg,"Sedoheptulose 1,7-bisphosphate"
+Com_6800_neg,Adrenosterone
+Com_14408_neg,Glycerol-3-phosphate
+Com_34735_neg,PC 22:6_22:6
+Com_8278_neg,7-Methylxanthine
+Com_28792_neg,Asp-Phe
+Com_11116_neg,Phenylacetylglutamine
+Com_37370_neg,Dimetghyl 4-Hydroxyisophthalate
+Com_6787_neg,LPC 15:0
+Com_20733_neg,Vitamin B2
+Com_1385_neg,Prostaglandin E1
+Com_9156_neg,NADH
+Com_31814_neg,Glutathione
+Com_563_neg,3-Hydroxy-3-methylbutanoic acid
+Com_28701_neg,Methyl EudesMate
+Com_4499_neg,Taurolithocholic acid
+Com_6948_neg,"(3beta,9xi)-3-(beta-D-Glucopyranosyloxy)-14-hydroxycard-20(22)-enolide"
+Com_8200_neg,Dl-Indole-3-lactic acid
+Com_66708_neg,(+/-)-Equol
+Com_28266_neg,tetranor-PGFM
+Com_15690_neg,2-Phosphoglyceric acid
+Com_18708_neg,Calcium D-Panthotenate
+Com_1935_neg,Epinephrine bitartrate
+Com_18790_neg,L-Cystathionine
+Com_12006_neg,"13,14-Dihydro prostaglandin E1"
+Com_17841_neg,N-Acetyl-Asp-Glu
+Com_16740_neg,Bilirubin
+Com_55583_neg,Gentisic acid
+Com_12980_neg,L-Ascorbate
+Com_28681_neg,"(1R,2R)-trans-N-Boc-1,2-cyclohexanediamine"
+Com_8966_neg,gamma-Glutamylcysteine
+Com_374_neg,Nonanoic acid
+Com_33359_neg,"D-Fructose 1,6-bisphosphate"
+Com_4277_neg,2-Furoic acid
+Com_16279_neg,Homovanillic acid
+Com_17054_neg,"DL-3,4-Dihydroxyphenyl glycol"
+Com_54278_neg,4-Aminoindole
+Com_57015_neg,"5,6-Dihydroxyindole-2-Carboxylic Acid"
+Com_2400_neg,"7-Hydroxy-3,4-dihydrocarbostyril"
+Com_64839_neg,alpha-Benzylsuccinic acid
+Com_8_pos,Acetophenone
+Com_11_pos,L-Norleucine
+Com_19_pos,L-Valine
+Com_29_pos,Methionine
+Com_46_pos,Tryptamine
+Com_65_pos,Phenethylamine
+Com_79_pos,N-Benzylformamide
+Com_150_pos,Thymine
+Com_177_pos,Choline
+Com_227_pos,4-Hydroxybenzaldehyde
+Com_259_pos,Histamine
+Com_276_pos,DL-Lysine
+Com_345_pos,Nicotinic acid
+Com_359_pos,Acetyl-L-carnitine
+Com_360_pos,L-Pyroglutamic acid
+Com_460_pos,DL-Carnitine
+Com_495_pos,Betaine
+Com_558_pos,Coumarin
+Com_678_pos,DL-Dipalmitoylphosphatidylcholine
+Com_760_pos,C-8 Ceramide-1-phosphate
+Com_1100_pos,1-Stearoylglycerol
+Com_1147_pos,Proline
+Com_1593_pos,"N6,N6,N6-Trimethyl-L-lysine"
+Com_1722_pos,N6-Acetyl-L-lysine
+Com_1745_pos,L-Glutamine
+Com_1804_pos,D-(+)-Pipecolinic acid
+Com_1875_pos,Creatinine
+Com_2131_pos,Spermine
+Com_2147_pos,"N3,N4-Dimethyl-L-arginine"
+Com_2388_pos,DL-2-(acetylamino)-3-phenylpropanoic acid
+Com_3119_pos,N-Acetylserotonin
+Com_3180_pos,cis-4-Hydroxy-D-proline
+Com_3448_pos,Propionylcarnitine
+Com_3532_pos,8-Hydroxyquinoline
+Com_4291_pos,Carvone
+Com_4758_pos,trans-4-Hydroxy-L-proline
+Com_4768_pos,Pilocarpine
+Com_5968_pos,"2-Amino-1,3-octadecanediol"
+Com_6117_pos,Sodium [dodecanoyl(methyl)amino]acetate
+Com_6691_pos,(R)-Equol
+Com_6870_pos,4-Guanidinobutyric acid
+Com_7257_pos,2-(acetylamino)-3-(1H-indol-3-yl)propanoic acid
+Com_7283_pos,¦Á-Methyl-DL-histidine
+Com_8677_pos,1-Phenyl-3-methyl-5-pyrazolone
+Com_10494_pos,N8-Acetylspermidine
+Com_13237_pos,Adenosine
+Com_14825_pos,4-Methyl-5-thiazoleethanol
+Com_16439_pos,Naringenin
+Com_16573_pos,Cortisol
+Com_16648_pos,Androstenedione
+Com_20823_pos,Testosterone
+Com_34360_pos,Thiamine
+Com_35013_pos,S-Adenosylhomocysteine
+Com_40437_pos,Palmitoyl sphingomyelin
+Com_55547_pos,5'-S-Methyl-5'-thioadenosine
+Com_56747_pos,S-Adenosylmethionine
+Com_63104_pos,Cytidine 5'-monophosphate (hydrate)
+Com_13_pos,Creatine
+Com_17_pos,5-Aminovaleric acid
+Com_23_pos,Hypoxanthine
+Com_28_pos,L-Tyrosine
+Com_53_pos,DL-Tryptophan
+Com_80_pos,Pipecolic acid
+Com_101_pos,DL-Arginine
+Com_102_pos,Nicotinamide
+Com_109_pos,Tyramine
+Com_132_pos,Uracil
+Com_169_pos,2-Hydroxycinnamic acid
+Com_173_pos,Xanthine
+Com_190_pos,Urocanic acid
+Com_351_pos,Glycine anhydride
+Com_568_pos,L-Histidine
+Com_573_pos,N-Acetylhistamine
+Com_616_pos,Inosine
+Com_770_pos,Carnosine
+Com_853_pos,Imidazolelactic acid
+Com_944_pos,L-Glutamic acid
+Com_1056_pos,D-(-)-Glutamine
+Com_1057_pos,Ornithine
+Com_1377_pos,Glycerophospho-N-palmitoyl ethanolamine
+Com_1384_pos,Indole-3-acetic acid
+Com_1475_pos,Methyl indole-3-acetate
+Com_1621_pos,3-Methylhistidine
+Com_1759_pos,Kynurenic acid
+Com_1779_pos,Serotonin
+Com_1826_pos,L-Glutathione oxidized
+Com_1948_pos,Threonine
+Com_2003_pos,¦Á-Aspartylphenylalanine
+Com_2506_pos,Taurocholic acid
+Com_2746_pos,L-Kynurenine
+Com_2780_pos,Argininosuccinic acid
+Com_3294_pos,L-Glutathione (reduced)
+Com_3607_pos,Cytidine
+Com_4360_pos,Glycitein
+Com_4664_pos,Corticosterone
+Com_5962_pos,Methionine sulfoxide
+Com_7403_pos,Pyridoxine
+Com_7593_pos,Progesterone
+Com_9635_pos,5-Hydroxylysine
+Com_13513_pos,Phenylacetylglycine
+Com_16567_pos,L-Aspartic acid
+Com_18180_pos,1-Methyladenosine
+Com_19923_pos,Biopterin
+Com_22928_pos,Riboflavin
+Com_10_pos,Oleamide
+Com_24_pos,Hexadecanamide
+Com_30_pos,IRH
+Com_41_pos,Valine
+Com_49_pos,Dl-3-Hydroxynorvaline
+Com_59_pos,2-Linoleoyl glycerol
+Com_66_pos,Styrene
+Com_70_pos,Stearamide
+Com_71_pos,N-(5-Aminopentyl)acetamide
+Com_111_pos,N-Methylhydantoin
+Com_112_pos,L-Asparagine
+Com_115_pos,5-OxoETE
+Com_119_pos,LPC 16:0-SN1
+Com_122_pos,1-Palmitoylglycerol
+Com_136_pos,PC O-18:2
+Com_162_pos,SM 8:1;2O/28:1
+Com_163_pos,2-oxopiperidine-3-carbohydrazide
+Com_185_pos,SM 36:1;2O
+Com_215_pos,LPC 18:2-SN1
+Com_218_pos,PC O-20:4
+Com_225_pos,LPC 20:4-SN1
+Com_226_pos,Arachidonoyl serinol
+Com_352_pos,Stearoyl Ethanolamide
+Com_366_pos,Tiglic acid
+Com_390_pos,3-Methoxy prostaglandin F1¦Á
+Com_395_pos,LPC 22:6-SN1
+Com_399_pos,LPC 22:6-SN2
+Com_415_pos,Hydroxyprogesterone caproate
+Com_423_pos,LSD-d3
+Com_470_pos,Cyromazine
+Com_502_pos,PC 36:3
+Com_531_pos,9-Oxo-ODE
+Com_569_pos,Nicotinamide N-oxide
+Com_608_pos,CAR 20:0
+Com_624_pos,Indole
+Com_630_pos,Dihydrothymine
+Com_633_pos,17(S)-HETE
+Com_636_pos,6-Methylquinoline
+Com_684_pos,Palmitic Acid
+Com_705_pos,DL-Stachydrine
+Com_739_pos,CAR 22:1
+Com_774_pos,"1,4-dihydroxyheptadec-16-en-2-yl acetate"
+Com_831_pos,PE O-18:3_20:4
+Com_870_pos,"N1-{4-methyl-2-[(3,4,5-trimethoxybenzylidene)amino]phenyl}acetamide"
+Com_873_pos,"2,4-dihydroxyheptadec-16-en-1-yl acetate"
+Com_891_pos,5-trans prostaglandin F2¦Â
+Com_893_pos,D-Proline
+Com_896_pos,"5-[(10Z)-14-(3,5-dihydroxyphenyl)tetradec-10-en-1-yl]benzene-1,3-diol"
+Com_918_pos,PC O-18:1
+Com_937_pos,PC 18:1_18:2
+Com_951_pos,FIBF-d7
+Com_955_pos,CAR 18:0
+Com_956_pos,Norleucine
+Com_966_pos,CAR 5:0
+Com_997_pos,N-Acetyl-L-leucine
+Com_1007_pos,Thromboxane B2
+Com_1012_pos,PC O-16:0
+Com_1037_pos,Avocadyne 1-acetate
+Com_1068_pos,CAR 22:2
+Com_1073_pos,NLK
+Com_1083_pos,MT-45-d11
+Com_1089_pos,Cytosine
+Com_1095_pos,2-Methylpentanedioic acid
+Com_1114_pos,PC 32:2
+Com_1166_pos,Cholecalciferol
+Com_1175_pos,Cadaverine
+Com_1181_pos,isoleucine
+Com_1191_pos,CAR 24:2
+Com_1215_pos,DLK
+Com_1270_pos,CAR 22:0
+Com_1319_pos,PC O-22:5
+Com_1321_pos,Piperine
+Com_1338_pos,"N1-(2,3-dihydro-1,4-benzodioxin-2-ylmethyl)-2,2-dimethylpropanamide"
+Com_1370_pos,"(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid"
+Com_1392_pos,"2-[3-(4-pyridyl)-1H-1,2,4-triazol-5-yl]pyridine"
+Com_1393_pos,Docosanamide
+Com_1402_pos,¦Â-Cortolone
+Com_1414_pos,6¦Â-Naltrexol
+Com_1438_pos,tert-Butyl N-[1-(aminocarbonyl)-3-methylbutyl]carbamate
+Com_1454_pos,CAR 24:1
+Com_1474_pos,"(12Z)-9,10,11-trihydroxyoctadec-12-enoic acid"
+Com_1487_pos,"2-hydroxy-6-[(8Z,11Z)-pentadeca-8,11,14-trien-1-yl]benzoic acid"
+Com_1493_pos,16(R)-HETE
+Com_1524_pos,DL-Norvaline
+Com_1548_pos,Isoquinoline
+Com_1553_pos,L-Threonine
+Com_1583_pos,"trans-2-Butene-1,4-dicarboxylic Acid"
+Com_1607_pos,LPC 17:0-SN1
+Com_1627_pos,Ecgonine
+Com_1706_pos,5-amino-2-(dimethylamino)benzoic acid
+Com_1731_pos,PC 34:1
+Com_1751_pos,PC O-18:0
+Com_1757_pos,4-Acetamidobutyric Acid
+Com_1778_pos,1H-indene-3-carboxamide
+Com_1818_pos,2-(2-amino-3-methylbutanamido)-3-phenylpropanoic acid
+Com_1833_pos,Epigallocatechin
+Com_1843_pos,PE O-16:1_22:4
+Com_1847_pos,PC O-38:5
+Com_1856_pos,8(9)-EET Ethanolamide
+Com_1914_pos,"2,3-Dinor-11¦Â-prostaglandin F2¦Á"
+Com_2001_pos,PC O-34:3
+Com_2002_pos,2-morpholino-1-phenyl-1-ethanol
+Com_2058_pos,PC O-20:3
+Com_2063_pos,Cafestol
+Com_2076_pos,"p-Mentha-1,3,8-triene"
+Com_2110_pos,L-5-Hydroxytryptophan
+Com_2144_pos,trans-3-Indoleacrylic acid
+Com_2146_pos,Eicosapentaenoic acid ethyl ester
+Com_2179_pos,PC O-36:5
+Com_2202_pos,Morphine
+Com_2246_pos,"3,3-dimethyl-5-oxo-5-[(3-phenyl-1H-pyrazol-5-yl)amino]pentanoic acid"
+Com_2273_pos,PC 18:2_19:2
+Com_2375_pos,Spermidine
+Com_2489_pos,2-Oxindole
+Com_2509_pos,L-Hydroxyproline
+Com_2561_pos,L-Ornithine
+Com_2592_pos,o-Cresol
+Com_2598_pos,LPC 38:6
+Com_2612_pos,"1,7-Diphenylhept-4-en-3-one"
+Com_2640_pos,1-(4-benzylpiperazino)-2-(pyridin-2-ylamino)propan-1-one
+Com_2653_pos,Stanozolol
+Com_2697_pos,methyl 4-methyl-2-oxo-2H-pyran-6-carboxylate
+Com_2706_pos,(+)-Evodiamine
+Com_2723_pos,N1-bicyclo[2.2.2]oct-2-ylbenzamide
+Com_2739_pos,Gly-Val
+Com_2755_pos,Palmitoylcarnitine
+Com_2758_pos,EPK
+Com_2784_pos,LPC 20:1-SN1
+Com_2796_pos,1-(2-methoxy-4-nitrophenyl)pyrrolidine
+Com_2798_pos,"4-(3,4-dihydro-2H-1,5-benzodioxepin-7-ylamino)-4-oxobutanoic acid"
+Com_2822_pos,Nervonic ceramide
+Com_2829_pos,"1-(3,4-dimethoxyphenyl)ethan-1-one oxime"
+Com_2834_pos,1-[4-(1-adamantyl)phenoxy]-3-piperidinopropan-2-ol hydrochloride
+Com_2852_pos,Monoolein
+Com_2857_pos,LPC 20:3-SN1
+Com_2919_pos,CAR 24:3
+Com_2946_pos,QNK
+Com_3006_pos,Pyroglutamic acid
+Com_3018_pos,D-glutamine
+Com_3076_pos,"2-Benzyl-5-[(3S)-1-isopropyl-3-pyrrolidinyl]-1,3,4-oxadiazole"
+Com_3121_pos,PC O-36:4
+Com_3137_pos,PE O-18:2_20:4
+Com_3138_pos,N-Acetyl-DL-valine
+Com_3169_pos,DL-¦Á-Aminocaprylic acid
+Com_3195_pos,Vasicinone
+Com_3224_pos,LPC 38:5
+Com_3267_pos,Coenzyme Q2
+Com_3277_pos,U-44069
+Com_3279_pos,Physostigmine
+Com_3298_pos,"2-Amino-1,3,4-octadecanetriol"
+Com_3304_pos,LPC 34:1
+Com_3323_pos,"3-amino-4-(propylamino)cyclobut-3-ene-1,2-dione"
+Com_3326_pos,PC O-34:1
+Com_3349_pos,SM 8:1;2O/32:0
+Com_3356_pos,2-Pyridylacetic acid
+Com_3391_pos,PC O-20:5
+Com_3422_pos,Ethyl oleate
+Com_3454_pos,LPC 16:1-SN1
+Com_3468_pos,o-Toluic Acid
+Com_3485_pos,PC 38:4
+Com_3492_pos,"5-(hydroxymethyl)-4-methoxy-2,5-dihydrofuran-2-one"
+Com_3537_pos,"ethyl 2-amino-8H-indeno[2,1-b]thiophene-3-carboxylate"
+Com_3580_pos,cis-7-Hexadecenoic Acid
+Com_3609_pos,Anthranilic acid
+Com_3630_pos,1-Nitrosopiperidine (NPIP)
+Com_3636_pos,CAR 18:2
+Com_3655_pos,Methyl-2-aminobenzoate
+Com_3678_pos,octadec-9-ynoic acid
+Com_3690_pos,LPC 15:0-SN1
+Com_3696_pos,LPE 40:7
+Com_3718_pos,"2-methyl-2,3,4,5-tetrahydro-1,5-benzoxazepin-4-one"
+Com_3723_pos,PC O-36:6
+Com_3797_pos,PE 20:3_20:3
+Com_3799_pos,Monolaurin
+Com_3817_pos,Quinoline
+Com_3821_pos,PC 35:2
+Com_3860_pos,LPC 22:4-SN1
+Com_3878_pos,PC 37:4
+Com_4041_pos,1-Methylguanine
+Com_4062_pos,D-Phenylalanine
+Com_4075_pos,Perillartine
+Com_4090_pos,N-Acetylmethionine
+Com_4099_pos,"3-amino-2-phenyl-2H-pyrazolo[4,3-c]pyridine-4,6-diol"
+Com_4120_pos,1-Acetylimidazole
+Com_4175_pos,15-Keto prostaglandin F1¦Á
+Com_4209_pos,Ethylmalonate
+Com_4224_pos,N-Acetylputrescine
+Com_4225_pos,Caprolactam
+Com_4289_pos,LPC 20:2-SN1
+Com_4305_pos,JWH 412 N-(5-hydroxypentyl) metabolite
+Com_4311_pos,Dopamine
+Com_4355_pos,PC 16:4_16:4
+Com_4372_pos,(¡À)17(18)-EpETE
+Com_4398_pos,morpholino(quinolin-6-yl)methanone
+Com_4402_pos,4-methyl-6-[(4-methylphenyl)thio]-2-(2-pyridyl)pyrimidine
+Com_4420_pos,Benzamidine
+Com_4457_pos,"2-[(3S)-1-Benzyl-3-pyrrolidinyl]-1,3-benzothiazole"
+Com_4490_pos,"8,8-dimethyl-2-phenyl-4H,8H-pyrano[2,3-h]chromen-4-one"
+Com_4522_pos,CAR 22:7
+Com_4619_pos,8-Isoprostaglandin F1¦Á
+Com_4639_pos,CAR 26:2
+Com_4652_pos,Aspartic acid
+Com_4668_pos,"4,7,8-trimethoxyfuro[2,3-b]quinoline"
+Com_4694_pos,N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methylnonanamide
+Com_4695_pos,PC O-16:1
+Com_4754_pos,indoline-2-carboxylic acid
+Com_4755_pos,Phenylpropiolic acid
+Com_4769_pos,Sedanolide
+Com_4777_pos,HPK
+Com_4783_pos,Levalbuterol
+Com_4805_pos,Phosphocholine
+Com_4810_pos,CAR 26:3
+Com_4860_pos,L-Glutamate
+Com_4916_pos,LPC 18:3-SN1
+Com_4921_pos,Methyl palmitate
+Com_4968_pos,4-Hydroxyisoleucine
+Com_4985_pos,Tramadol N-Oxide
+Com_4987_pos,EKK
+Com_5084_pos,6-Methylflavone
+Com_5089_pos,PPK
+Com_5149_pos,Andrographolide
+Com_5155_pos,Venlafaxine N-Oxide
+Com_5164_pos,SPH
+Com_5329_pos,Methylimidazoleacetic acid
+Com_5344_pos,"16-Heptadecyne-1,2,4-triol"
+Com_5351_pos,Hydroquinone
+Com_5422_pos,GKK
+Com_5437_pos,D-Ala-D-Ala
+Com_5451_pos,13-HPODE
+Com_5494_pos,Methylmalonate
+Com_5525_pos,"1,2-dihydroxyheptadec-16-yn-4-yl acetate"
+Com_5546_pos,Oleoyl ethylamide
+Com_5548_pos,Cer 18:1;2O/20:3
+Com_5606_pos,KNK
+Com_5608_pos,Zolpidem-d6
+Com_5628_pos,18-HETE
+Com_5634_pos,4-Methoxycinnamaldehyde
+Com_5635_pos,"2-Benzyl-5-[(3S)-1-cyclobutyl-3-pyrrolidinyl]-1,3,4-oxadiazole"
+Com_5653_pos,N-¦Á-L-Acetyl-arginine
+Com_5668_pos,Cyclohexyl fentanyl-d5
+Com_5768_pos,PC O-30:1
+Com_5774_pos,Acetanilide
+Com_5775_pos,Cer 18:1;2O/16:1
+Com_5779_pos,INK
+Com_5783_pos,PC 19:2_19:2
+Com_5808_pos,Dehydroepiandrosterone (DHEA)
+Com_5830_pos,PC O-22:4
+Com_5877_pos,LPC O-17:1
+Com_5892_pos,3-Hydroxyropivacaine
+Com_5920_pos,trans-3-Hexenoic acid
+Com_5928_pos,Adenine
+Com_5946_pos,2-Hydroxyphenylalanine
+Com_5971_pos,KMH
+Com_5984_pos,Octanedioic acid
+Com_6014_pos,"3-(5-phenyl-1,3-oxazol-2-yl)-4-(trifluoromethyl)pyridine"
+Com_6021_pos,Cer 18:1;2O/16:0
+Com_6055_pos,LPC 20:1
+Com_6061_pos,(¡À)11(12)-EET
+Com_6070_pos,PC O-32:1
+Com_6127_pos,L-(+)-Citrulline
+Com_6146_pos,Cytisine
+Com_6181_pos,LPC 20:5-SN1
+Com_6241_pos,GLK
+Com_6406_pos,¦´-L-Glutamyl-L-glutamic acid
+Com_6445_pos,PC O-38:7
+Com_6471_pos,PE O-18:2_14:0
+Com_6472_pos,PE O-16:1_16:1
+Com_6528_pos,N'1-(6-methylpyridazin-3-yl)-4-chlorobenzene-1-carbohydrazide
+Com_6539_pos,(¡À)8-HEPE
+Com_6547_pos,3-Hydroxylidocaine
+Com_6551_pos,Arachidonoyl amide
+Com_6561_pos,Azetidine-2-carboxylic acid
+Com_6563_pos,ethyl 2-[(6-oxo-6H-benzo[c]chromen-3-yl)oxy]acetate
+Com_6574_pos,PE 18:1_18:1
+Com_6575_pos,mesityl(piperidin-4-yl)methanone hydrochloride
+Com_6581_pos,PC 40:6
+Com_6788_pos,"1,5-dimethyl-N-(4-morpholinobenzyl)-1H-pyrazole-3-carboxamide"
+Com_6837_pos,benzyl N-methyl-(cyclohexylamino)methanimidothioate hydrochloride
+Com_6847_pos,CAR 18:1
+Com_6855_pos,Stiripentol
+Com_6909_pos,Tropine
+Com_6926_pos,(+/-)5(6)-EET Ethanolamide
+Com_7009_pos,N-Butylbenzenesulfonamide
+Com_7128_pos,PC 20:3_20:3
+Com_7187_pos,11-Deoxy prostaglandin F1¦Á
+Com_7217_pos,PC O-20:2
+Com_7239_pos,D-Erythro-sphingosine 1-phosphate
+Com_7247_pos,"5,7-dihydroxy-3-(4-hydroxyphenyl)-4H-chromen-4-one"
+Com_7279_pos,FLK
+Com_7368_pos,PC 17:0_17:1
+Com_7370_pos,NAGly 18:1/22:4
+Com_7391_pos,7-(2-aminophenyl)heptanoic acid
+Com_7423_pos,PE 19:2_19:2
+Com_7483_pos,Maslinic acid
+Com_7489_pos,"2,3-dihydroxypropyl 12-methyltridecanoate"
+Com_7607_pos,"trans,trans-2,4-Heptadienal"
+Com_7615_pos,Norbutorphanol
+Com_7635_pos,N-Methylnicotinamide
+Com_7753_pos,3-Hydroxypicolinic acid
+Com_7863_pos,SM 9:1;2O/32:1
+Com_7875_pos,3-(2-Hydroxyethyl)indole
+Com_7934_pos,N1-[2-oxo-6-(1H-pyrrol-1-yl)-2H-chromen-3-yl]acetamide
+Com_7935_pos,ethyl 3-cyano-2-hydroxy-6-phenylisonicotinate
+Com_7983_pos,Methyl dihydrojasmonate
+Com_8078_pos,4-methyl-5-(phenylthio)pyrimidin-2-amine
+Com_8095_pos,6-Keto-prostaglandin f1alpha
+Com_8177_pos,PC O-33:3
+Com_8217_pos,2-Phenylacetamide
+Com_8228_pos,1-[4-(dimethylamino)phenyl]-2-phenyl-1-ethanone
+Com_8336_pos,"2,4-Dimethylbenzaldehyde"
+Com_8340_pos,¦Â-Estradiol
+Com_8436_pos,7-Methylguanine
+Com_8504_pos,Guanosine monophosphate
+Com_8523_pos,14(15)-EET ethanolamide
+Com_8541_pos,U-47700-d6
+Com_8545_pos,KLK
+Com_8546_pos,IKK
+Com_8552_pos,SM 8:1;2O/34:1
+Com_8598_pos,Benzoylecgonine
+Com_8762_pos,"N2-tetrahydrofuran-2-ylmethyl-4-(4-fluorophenyl)-1,3-thiazol-2-amine"
+Com_8779_pos,Linolelaidic Acid (C18:2N6T)
+Com_8844_pos,FMH
+Com_8872_pos,2-((Dimethylamino)methyl)phenol
+Com_8915_pos,SM 8:1;2O/30:1
+Com_8967_pos,Ergosterol
+Com_8974_pos,Desalkylflurazepam-d4
+Com_9043_pos,AB-PINACA N-(2-fluoropentyl) isomer
+Com_9079_pos,"L-2,4-Diaminobutyric acid"
+Com_9092_pos,CAR 16:1
+Com_9179_pos,Jervine
+Com_9189_pos,Norfenefrine
+Com_9201_pos,PC 19:1_20:5
+Com_9232_pos,VQH
+Com_9242_pos,UR-144 N-(5-Chloropentyl) analog
+Com_9431_pos,1-adamantyl(piperidino)methanone
+Com_9517_pos,Cer 18:0;2O/14:0
+Com_9561_pos,2-Thio-acetyl MAGE
+Com_9588_pos,PC O-40:6
+Com_9623_pos,N-(tert-butyl)-N'-phenethylurea
+Com_9630_pos,11-Epiprostaglandin E1
+Com_9646_pos,LPE 17:0
+Com_9675_pos,CAR 26:1
+Com_9688_pos,2-Isobutyl-3-methoxypyrazine
+Com_9729_pos,Prostaglandin E2-1-glyceryl ester
+Com_9750_pos,ALK
+Com_9793_pos,DG O-18:2_18:1
+Com_9805_pos,Methanandamide
+Com_9853_pos,TG 20:4_20:4_26:4
+Com_9854_pos,VNK
+Com_9889_pos,¦Á-Linolenoyl ethanolamide
+Com_9970_pos,"2-(tert-butyl)-1,3-thiazolane-4-carboxylic acid"
+Com_10069_pos,DG 18:2_18:3
+Com_10123_pos,PC 37:6
+Com_10127_pos,N-(5-acetamidopentyl)acetamide
+Com_10189_pos,3-hydroxy-N-(1-hydroxy-4-methylpentan-2-yl)-5-oxo-6-phenylhexanamide
+Com_10199_pos,NAGly 18:2/22:5
+Com_10211_pos,SLH
+Com_10267_pos,"3-(2,3-dihydro-1H-indol-1-yl)-2-[(2-furylmethyl)sulfonyl]acrylonitrile"
+Com_10297_pos,Obacunone
+Com_10317_pos,2-[5-(2-hydroxypropyl)oxolan-2-yl]propanoic acid
+Com_10456_pos,SM 34:2;2O
+Com_10493_pos,CAR 24:0
+Com_10501_pos,Choline bitartrate
+Com_10503_pos,Pregnanetriol
+Com_10506_pos,"4-(cyclohexylmethyl)-6-(2-thienyl)-2,3-dihydropyridazin-3-one hydrate"
+Com_10537_pos,Tetranor-12(S)-HETE
+Com_10610_pos,Oxymorphone
+Com_10616_pos,PC O-40:9
+Com_10687_pos,Solanidine
+Com_10689_pos,"2-(14,15-Epoxyeicosatrienoyl) glycerol"
+Com_10721_pos,(+/-)11(12)-DiHET
+Com_10753_pos,"15-Deoxy-¦¤12,14-prostaglandin A1"
+Com_10854_pos,CAR 20:2
+Com_10858_pos,7¦Á-Hydroxytestosterone
+Com_10875_pos,PC 32:0
+Com_10880_pos,"(2E,4E)-N-[2-(4-hydroxyphenyl)ethyl]dodeca-2,4-dienamide"
+Com_10934_pos,Prostaglandin F2¦Á-1-glyceryl ester
+Com_10968_pos,WNK
+Com_10972_pos,LPC O-22:0
+Com_11013_pos,PE 40:6
+Com_11049_pos,LKK
+Com_11067_pos,9-HOTrE
+Com_11076_pos,PE O-18:2_22:4
+Com_11095_pos,2-(2-oxo-2-{[2-(2-oxo-1-imidazolidinyl)ethyl]amino}ethoxy)acetic acid
+Com_11155_pos,"7-{[(2E)-3,7-dimethylocta-2,6-dien-1-yl]oxy}-2H-chromen-2-one"
+Com_11156_pos,"1,7-bis(4-hydroxyphenyl)heptan-3-one"
+Com_11165_pos,"4-(4-methoxyphenyl)-4,5-dihydropyrrolo[1,2-a]quinoxaline"
+Com_11230_pos,CAR 24:4
+Com_11231_pos,Dipropylene glycol dimethyl ether
+Com_11279_pos,4-(Diethylamino)benzaldehyde
+Com_11358_pos,W-18-d4
+Com_11409_pos,NKK
+Com_11435_pos,Triacanthine
+Com_11476_pos,MLK
+Com_11477_pos,Solvent blue 4
+Com_11495_pos,LPC 34:2
+Com_11516_pos,XLR11 N-(4-pentenyl) analog
+Com_11531_pos,CAR 23:2
+Com_11561_pos,Cer 18:1;2O/22:5
+Com_11640_pos,N-Methylisoleucine
+Com_11663_pos,Palmitoylethanolamide
+Com_11696_pos,PLK
+Com_11722_pos,Decanoylcarnitine
+Com_11734_pos,(¡À)13-HpODE
+Com_11778_pos,Acipimox
+Com_11834_pos,Skatole
+Com_11844_pos,1-morpholino-3-(4-nitrophenoxy)propan-2-ol
+Com_11888_pos,Hexanoylcarnitine
+Com_11951_pos,7-Ketocholesterol
+Com_12028_pos,NAGly 18:1/22:3
+Com_12042_pos,"N-(2,6-Dimethylphenyl)-N-(methoxyacetyl) alanine"
+Com_12077_pos,Chlorogenic acid
+Com_12208_pos,(5E)-7-methylidene-10-oxo-4-(propan-2-yl)undec-5-enoic acid
+Com_12239_pos,6-cyclohex-3-enyl-5-nitropiperidin-2-one
+Com_12259_pos,15-epi Prostaglandin A1
+Com_12263_pos,PC O-37:7
+Com_12307_pos,PC 40:9
+Com_12315_pos,DL-Leucineamide
+Com_12359_pos,PC O-18:3
+Com_12383_pos,PC 34:2
+Com_12403_pos,ELK
+Com_12430_pos,PC 40:8
+Com_12512_pos,Tetramethylpyrazine
+Com_12513_pos,KPH
+Com_12514_pos,Orlistat
+Com_12532_pos,CAR 23:1
+Com_12541_pos,Lysine Butyrate
+Com_12549_pos,tetranor-12(R)-HETE
+Com_12564_pos,T-2 Triol
+Com_12675_pos,Flunitrazepam-d3
+Com_12712_pos,WQH
+Com_12788_pos,Cortisone
+Com_12791_pos,N-Arachidonoyl-L-serine
+Com_12798_pos,INH
+Com_12877_pos,CAR 26:5
+Com_12889_pos,Carbaprostacyclin
+Com_12914_pos,2-Arachidonoyl glycerol
+Com_12937_pos,Lysopg 18:1
+Com_13026_pos,Epitestosterone
+Com_13204_pos,"15-Deoxy-¦¤12,14-prostaglandin J2-2-glycerol ester"
+Com_13415_pos,LPK
+Com_13458_pos,Phenylethanolamine
+Com_13478_pos,AKK
+Com_13483_pos,Cer 18:0;2O/16:0
+Com_13553_pos,2-(4-methoxyphenyl)-3-(1H-pyrazol-4-yl)acrylonitrile
+Com_13593_pos,RLK
+Com_13650_pos,SM 8:1;2O/33:0
+Com_13788_pos,PC 17:0_18:1
+Com_13810_pos,"(3R)-8-hydroxy-3-(4-methoxyphenyl)-3,4-dihydro-1H-2-benzopyran-1-one"
+Com_13904_pos,2-Phenylethylamine
+Com_13936_pos,1-(3-phenylpropanoyl)-4-piperidinecarboxylic acid
+Com_13956_pos,PE 18:2_18:2
+Com_14026_pos,"5,6-dimethyl-4-oxo-4H-pyran-2-carboxylic acid"
+Com_14027_pos,PC 19:1_19:2
+Com_14053_pos,PC O-40:8
+Com_14063_pos,4-Methyl-2-Oxopentanoic Acid
+Com_14202_pos,2-[(3S)-1-(4-Fluorobenzyl)-3-pyrrolidinyl]-5-methyl-1H-benzimidazole
+Com_14225_pos,DKK
+Com_14232_pos,PC O-38:9
+Com_14325_pos,ethyl 4-[(6-methyl-3-pyridazinyl)oxy]benzoate
+Com_14392_pos,20-Hydroxy prostaglandin F2¦Á
+Com_14395_pos,PC O-38:6
+Com_14403_pos,PC O-37:5
+Com_14412_pos,"N,5-diphenyl-1,3,4-oxadiazole-2-carboxamide"
+Com_14451_pos,DG 16:0_18:1
+Com_14496_pos,Mevalonolactone
+Com_14514_pos,CAR 21:1
+Com_14590_pos,SLK
+Com_14603_pos,LPC 24:6-SN1
+Com_14682_pos,TG 10:0_10:0_12:0
+Com_14717_pos,PC 40:7
+Com_14757_pos,KKK
+Com_14762_pos,CAR 18:3
+Com_14889_pos,3-Indoleacetonitrile
+Com_14898_pos,PC 17:1_17:2
+Com_15008_pos,Naratriptan
+Com_15055_pos,D-Raffinose
+Com_15067_pos,"7-methyl-3-nitroimidazo[1,2-a]pyridine"
+Com_15113_pos,"5,6-dimethoxy-2-(2-methoxyphenyl)-4H-chromen-4-one"
+Com_15128_pos,NPH
+Com_15142_pos,NAGly 18:1/22:5
+Com_15233_pos,APH
+Com_15259_pos,QLK
+Com_15266_pos,Octyl hydrogen phthalate
+Com_15328_pos,"6-methyl-7-nitro-2,3-dihydro-1,4-benzodioxine"
+Com_15330_pos,LPC 40:8
+Com_15390_pos,CAR 21:0
+Com_15429_pos,LPC 17:1-SN1
+Com_15452_pos,PC 15:0_15:1
+Com_15458_pos,N1-(2-amino-2-oxoethyl)pent-3-enamide
+Com_15478_pos,SL 11:1;O/16:2;O
+Com_15496_pos,QKK
+Com_15541_pos,PC O-42:9
+Com_15584_pos,WLH
+Com_15637_pos,4-oxo-5-phenylpentanoic acid
+Com_15815_pos,FPK
+Com_15889_pos,1-(4-bromophenyl)-2-phenylethan-1-one
+Com_15933_pos,2-Phenylglycine
+Com_16153_pos,1H-indol-3-yl(pyridin-2-yl)methanol
+Com_16265_pos,trans-4-Phenyl-4-piperidinocyclohexanol
+Com_16303_pos,SM 8:1;2O/36:4
+Com_16315_pos,Cer 18:1;2O/18:1
+Com_16337_pos,Proline-hydroxyproline
+Com_16393_pos,2'-Deoxyadenosine-5'-monophosphate
+Com_16484_pos,VLK
+Com_16491_pos,"4-(3-methoxy-5,6-dihydrobenzo[c]acridin-7-yl)morpholine"
+Com_16493_pos,"(2E,4E)-N-(2-methylpropyl)deca-2,4-dienamide"
+Com_16495_pos,L-Anserine (beta-alanyl-N-methylhistidine) (nitrate salt)
+Com_16501_pos,SL 10:1;O/18:2;O
+Com_16527_pos,"5-acetyl-2,6-dimethyl-1,2,3,4-tetrahydropyridin-4-one"
+Com_16528_pos,CAR 19:0
+Com_16532_pos,16¦Á-Hydroxydehydroepiandrosterone
+Com_16544_pos,IPK
+Com_16593_pos,LPC 19:0
+Com_16666_pos,Kanosamine
+Com_16780_pos,SM 8:1;2O/30:0
+Com_16963_pos,SM 8:0;2O/13:0
+Com_16982_pos,LPC 19:1-SN1
+Com_17020_pos,LLK
+Com_17024_pos,3-(dimethylamino)-1-[4-(phenylsulfonyl)phenyl]prop-2-en-1-one
+Com_17049_pos,LPC 34:3
+Com_17212_pos,Palmitoleic Acid
+Com_17242_pos,CAR 13:0
+Com_17395_pos,CAR 20:3
+Com_17435_pos,"N-(2,4-Dimethylphenyl)formamide"
+Com_17510_pos,"2,6-Di-tert-butyl-1,4-benzoquinone"
+Com_17512_pos,DL-5-Methoxytryptophan
+Com_17572_pos,Diphenylamine
+Com_17576_pos,LPC 42:9
+Com_17618_pos,PC 36:6
+Com_17624_pos,PC 16:0_17:1
+Com_17751_pos,Tetrahydrocortisone
+Com_17783_pos,PC 37:5
+Com_17808_pos,PC 36:4
+Com_17898_pos,Hex2Cer 18:1;2O/18:0
+Com_17934_pos,4-oxododecanedioic acid
+Com_17953_pos,2-acetamido-3-(4-methoxyphenyl)propanoic acid
+Com_17959_pos,TG 10:0_10:0_10:0
+Com_17960_pos,"4-oxo-4-(5,6,7,8-tetrahydronaphthalen-1-ylamino)but-2-enoic acid"
+Com_17977_pos,Lysine
+Com_18027_pos,(9cis)-Retinal
+Com_18120_pos,Muscone
+Com_18150_pos,Limonin
+Com_18167_pos,6-methyl-4-(morpholinomethyl)-2H-chromen-2-one
+Com_18188_pos,ILK
+Com_18308_pos,3-Methylcrotonylglycine
+Com_18322_pos,5-Fluoro-2-[(3S)-1-(2-methylbenzyl)-3-pyrrolidinyl]-1H-benzimidazole
+Com_18431_pos,LMH
+Com_18462_pos,"4,5-diphenyl-1,3-oxazole-2-thiol"
+Com_18608_pos,SKK
+Com_18658_pos,"5-(6-hydroxy-6-methyloctyl)-2,5-dihydrofuran-2-one"
+Com_18684_pos,PE 18:2_20:5
+Com_18721_pos,diethyl 2-[(4-benzhydrylpiperidino)methylidene]malonate
+Com_18770_pos,4-Guanidinobutanoic acid
+Com_18844_pos,SM 37:1;2O
+Com_18874_pos,SL 22:0;O/20:2
+Com_19000_pos,TKK
+Com_19021_pos,N-[3-(1-methyl-1H-pyrazol-3-yl)phenyl]-N'-phenylurea
+Com_19026_pos,PC 38:7
+Com_19029_pos,Cuminaldehyde
+Com_19097_pos,SL 10:1;O/16:2;O
+Com_19131_pos,EMK
+Com_19197_pos,JWH 018 N-(5-chloropentyl) analog
+Com_19201_pos,Methacycline
+Com_19209_pos,D-(+)-Maltose
+Com_19211_pos,N1-(1-benzyl-4-piperidyl)-4-chlorobenzene-1-sulfonamide
+Com_19231_pos,Cer 18:1;2O/15:0
+Com_19315_pos,CYM-5442
+Com_19611_pos,CAR 17:0
+Com_19627_pos,4-Ethoxybenzaldehyde
+Com_19629_pos,Choline Glycerophosphate
+Com_19700_pos,"6,11-dihydro-5H-benzo[a]carbazole"
+Com_19738_pos,ANK
+Com_19749_pos,Methyl cinnamate
+Com_19873_pos,SM 34:0;2O
+Com_19927_pos,"N,N-dimethyl-9H-purin-6-amine"
+Com_19985_pos,"(6E,10E)-3,7,11,15-tetramethylhexadeca-1,6,10,14-tetraene-3,5,9-triol"
+Com_20058_pos,SPB 23:1;2O
+Com_20152_pos,SM 18:1;2O/3:0
+Com_20156_pos,PC 18:1_19:2
+Com_20202_pos,L-beta-Imidazolelactic acid
+Com_20215_pos,"16,16-Dimethyl prostaglandin A2"
+Com_20220_pos,LPE 20:2
+Com_20229_pos,"Methyl N-cyano-N'-[2-(2,2-dichlorocyclopropyl)ethyl]carbamimidothioate"
+Com_20253_pos,AKB48 N-(4-fluorobenzyl) analog
+Com_20302_pos,Sanguinarine
+Com_20382_pos,YNK
+Com_20414_pos,"4-(2,3-dihydro-1,4-benzodioxin-6-yl)butanoic acid"
+Com_20435_pos,MNK
+Com_20455_pos,SM 8:1;2O/28:0
+Com_20466_pos,Oxymatrine
+Com_20565_pos,(S)-AL 8810
+Com_20625_pos,LPE 38:6
+Com_20631_pos,(+)-ar-Turmerone
+Com_20649_pos,"1,3-Dimethyluracil"
+Com_20778_pos,Veratramine
+Com_20993_pos,YLK
+Com_21101_pos,CAR 25:2
+Com_21132_pos,Lapachol
+Com_21177_pos,LPC O-20:3
+Com_21232_pos,"N2-(2,4-dimethylphenyl)-1,3-benzothiazol-2-amine"
+Com_21398_pos,SM 8:1;2O/26:6
+Com_21399_pos,Ecgonine methyl ester
+Com_21418_pos,17¦Á-Ethynylestradiol
+Com_21422_pos,PC 42:10
+Com_21461_pos,Taurodeoxycholic Acid (sodium salt)
+Com_21473_pos,LPC O-21:2
+Com_21498_pos,LPC O-15:0
+Com_21553_pos,PC 17:0_18:5
+Com_21607_pos,2-Methoxybenzaldehyde
+Com_21755_pos,NNK
+Com_21760_pos,LPC O-17:2
+Com_21824_pos,LPC 19:0-SN1
+Com_21881_pos,PLH
+Com_21895_pos,PC 22:5_22:6
+Com_21912_pos,Radicinin
+Com_22092_pos,LPC 38:7
+Com_22114_pos,Ranolazine
+Com_22299_pos,methyl 6-{[4-(trifluoromethyl)anilino]carbonyl}nicotinate
+Com_22309_pos,Ingenol-3-angelate
+Com_22314_pos,NAGly 20:4/22:5
+Com_22380_pos,R-1 Methanandamide phosphate
+Com_22467_pos,LPC O-17:0
+Com_22474_pos,PC O-15:0
+Com_22507_pos,4-Hydroxytamoxifen
+Com_22592_pos,N-(6-methoxypyridin-3-yl)thiophene-2-carboxamide
+Com_22600_pos,RQH
+Com_22605_pos,Bisphenol M
+Com_22651_pos,N1-Acetylspermine
+Com_22696_pos,Tetracycline
+Com_22717_pos,Cer 18:1;2O/14:0
+Com_22752_pos,AKB48 N-(5-Fluoropentyl) analog
+Com_22777_pos,SM 9:1;2O/26:7
+Com_22854_pos,2-methoxy-4-{3-[(4-methylbenzoyl)amino]butyl}phenyl 4-methylbenzoate
+Com_22892_pos,CAR 22:3
+Com_22911_pos,"2-phenylimidazo[1,2-a]pyridine"
+Com_22914_pos,3-Acetyl-11-keto-¦Â-boswellic acid
+Com_22941_pos,"(2E,4E)-N-(2-methylpropyl)dodeca-2,4-dienamide"
+Com_22980_pos,5-Methylcytidine
+Com_23040_pos,4-Hydroxybenzoic acid
+Com_23051_pos,2-ethyl-1H-perimidine
+Com_23057_pos,"3,4-dihydro-2H,6H-[1,3]thiazino[2,3-b]quinazolin-6-one"
+Com_23093_pos,CAR 24:5
+Com_23108_pos,PPH
+Com_23172_pos,KQH
+Com_23231_pos,WLK
+Com_23384_pos,Testosterone acetate
+Com_23424_pos,"O,O-Diethyl thiophosphate"
+Com_23494_pos,"4-[2-(2-oxo-1-imidazolidinyl)ethyl]-1lambda~6~,4-thiazinane-1,1-dione"
+Com_23501_pos,DG O-20:2_18:1
+Com_23528_pos,N-Acetylprocainamide
+Com_23951_pos,DMK
+Com_23986_pos,"6,7-dihydro-5H-dibenzo[d,f][1,3]diazepin-6-one"
+Com_24023_pos,Mesalamine
+Com_24141_pos,CAR 22:6
+Com_24164_pos,CAR 23:0
+Com_24167_pos,2-(ethylthio)-6-methyl-5-(2-methylallyl)pyrimidin-4-ol
+Com_24205_pos,SM 18:0;2O/5:0
+Com_24228_pos,SM 8:1;2O/29:0
+Com_24425_pos,Etiocholanolone
+Com_24456_pos,PC 34:4
+Com_24460_pos,p-Hydroxybenzaldehyde
+Com_24464_pos,SPB 17:1;2O
+Com_24472_pos,DG O-22:3_20:2
+Com_24520_pos,SM 42:9;2O
+Com_24573_pos,LPE 38:4
+Com_24735_pos,SM 38:1;2O
+Com_24816_pos,Arecoline
+Com_24863_pos,Noroxycodone
+Com_24962_pos,N-Acetyl-DL-alanine
+Com_25126_pos,"(6E)-7-(2H-1,3-benzodioxol-5-yl)-1-(piperidin-1-yl)hept-6-en-1-one"
+Com_25129_pos,Cer 19:2;2O/15:1
+Com_25158_pos,N-(4-butyl-2-methylphenyl)-N'-[4-(4-methylpiperazino)phenyl]urea
+Com_25221_pos,Cer 18:1;2O/14:1
+Com_25293_pos,2-(4-methylphenyl)-2-oxoethyl thiocyanate
+Com_25327_pos,4-{4-[3-(4-chlorophenoxy)propyl]piperazino}-1H-indole
+Com_25346_pos,2-(1-Piperazinyl)pyrimidine
+Com_25403_pos,PC 19:2_18:3
+Com_25412_pos,NAOrn 16:0/14:0
+Com_25417_pos,4-Amino-5-imidazolecarboxamide
+Com_25768_pos,NAGly 18:1/20:2
+Com_25787_pos,"4-(tert-butyl)phenyl 3,5-dimethylisoxazole-4-carboxylate"
+Com_25791_pos,Centralite
+Com_25807_pos,"6-anilino-1,3-dimethyl-1,2,3,4-tetrahydropyrimidine-2,4-dione"
+Com_25826_pos,Maltotetraose
+Com_25897_pos,LPC 24:6
+Com_25954_pos,6-(3-hydroxybutan-2-yl)-5-(hydroxymethyl)-4-methoxy-2H-pyran-2-one
+Com_25976_pos,LPC O-19:0
+Com_26153_pos,O-Arachidonoyl ethanolamine
+Com_26162_pos,LPC 16:2-SN1
+Com_26234_pos,Linustatin
+Com_26334_pos,"5-amino-1-(4-chlorobenzyl)-1H-1,2,3-triazole-4-carboxamide"
+Com_26475_pos,LPC 30:1
+Com_26487_pos,3-hydroxy-2-[5-nitro-2-(1-pyrrolidinyl)benzyl]propanenitrile
+Com_26529_pos,lipoamide
+Com_26635_pos,(-)-Maackiain
+Com_26707_pos,PC 33:2
+Com_26818_pos,6¦Â-Oxycodol N-oxide
+Com_26825_pos,Desmethyldoxepin
+Com_27003_pos,"N'-[(2,4-dihydroxyphenyl)methylene]-4-methylbenzenesulfonohydrazide"
+Com_27089_pos,"4-{5-[(3S)-1-Isopropyl-3-pyrrolidinyl]-1,3,4-oxadiazol-2-yl}pyridine"
+Com_27111_pos,CAR 21:2
+Com_27132_pos,TG 17:2_20:4_20:4
+Com_27189_pos,KNH
+Com_27370_pos,NAGly 16:0/22:4
+Com_27378_pos,PC 16:3_18:5
+Com_27387_pos,FQH
+Com_27400_pos,"6-(benzylamino)-3-phenyl-1,4-dihydropyridazin-4-one"
+Com_27588_pos,"(1E,4E)-1,5-bis(4-methoxyphenyl)penta-1,4-dien-3-one"
+Com_27743_pos,CAR 17:1
+Com_27757_pos,LPC O-19:1
+Com_27803_pos,Kanamycin
+Com_27844_pos,WKK
+Com_27996_pos,DG 14:0_18:1
+Com_28020_pos,4-oxo-4-[(1-phenylethyl)amino]but-2-enoic acid
+Com_28103_pos,UR-144 N-(2-hydroxypentyl) metabolite
+Com_28185_pos,N-Desmethyltramadol
+Com_28218_pos,"N1-(2-piperidinophenyl)-3,4,5-trimethoxybenzamide"
+Com_28240_pos,PE O-16:1_20:3
+Com_28331_pos,LPC 24:4-SN1
+Com_28414_pos,PC O-39:6
+Com_28429_pos,Resiniferatoxin
+Com_28476_pos,dG-C8-AaC
+Com_28535_pos,LPC 40:9
+Com_28651_pos,3-[4-methyl-1-(2-methylpropanoyl)-3-oxocyclohexyl]butanoic acid
+Com_28699_pos,D-Panthenol
+Com_28726_pos,5-oxo-3-phenyl-5-(2-quinolinylamino)pentanoic acid
+Com_28824_pos,DG O-16:2_17:2
+Com_28840_pos,"ethyl 4-[2-(3,4,5-trimethoxybenzylidene)hydrazino]benzoate"
+Com_28913_pos,LPC 13:0-SN1
+Com_28988_pos,1-{4-methoxy-3-[(2-pyridylthio)methyl]phenyl}ethan-1-one
+Com_29015_pos,"5,8-dihydroxy-10-methyl-5,8,9,10-tetrahydro-2H-oxecin-2-one"
+Com_29103_pos,"3-(propan-2-yl)-octahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+Com_29178_pos,ENH
+Com_29202_pos,Vitamin A
+Com_29229_pos,5-Methyltetrahydrofolic acid
+Com_29301_pos,"4-(1H-pyrazol-1-yl)-N,N-bis(2-pyridinylmethyl)benzenesulfonamide"
+Com_29346_pos,PC 42:9
+Com_29448_pos,Nootkatone
+Com_29472_pos,DPK
+Com_29628_pos,3-Methyl-2-oxobutanoic acid
+Com_29750_pos,PC O-36:9
+Com_29775_pos,5-fluoro AB-PINACA N-(4-hydroxypentyl) metabolite
+Com_30008_pos,IQH
+Com_30059_pos,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(propan-2-yloxy)oxane-3,4,5-triol"
+Com_30101_pos,"1,4-dihydroxy-1,4-dimethyl-7-(propan-2-ylidene)-decahydroazulen-6-one"
+Com_30171_pos,ethyl 1-(3-nitro-2-thienyl)piperidine-4-carboxylate
+Com_30292_pos,LPC 13:1-SN1
+Com_30337_pos,SM 41:1;2O
+Com_30366_pos,"3-[(4-hydroxyphenyl)methyl]-octahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+Com_30370_pos,4-(Diethylamino)salicylaldehyde
+Com_30435_pos,11-Deoxy prostaglandin F1¦Â
+Com_30501_pos,PC 40:5
+Com_30510_pos,N3-(2-morpholinophenyl)-2-oxo-2H-chromene-3-carboxamide
+Com_30669_pos,GPK
+Com_30694_pos,DG O-18:3_22:1
+Com_30798_pos,TLK
+Com_30923_pos,"4-(1-adamantyl)-2-methyl-1,3-thiazole"
+Com_31022_pos,VNH
+Com_31083_pos,4-[4-(aminocarbonyl)piperidino]-4-oxobut-2-enoic acid
+Com_31094_pos,Heptadecanoic Acid
+Com_31128_pos,MMK
+Com_31214_pos,PC 20:2_22:6
+Com_31227_pos,Dinophysistoxin-1
+Com_31339_pos,NAGly 16:1/22:4
+Com_31564_pos,"1,7-bis(3,4-dihydroxyphenyl)heptan-3-one"
+Com_31625_pos,7-Aminoflunitrazepam-d7
+Com_31685_pos,LPC 24:5-SN1
+Com_31748_pos,N-(8-methyl-8-azabicyclo[3.2.1]oct-3-yl)-4-nitrobenzamide
+Com_31756_pos,MGDG O-21:1_20:1
+Com_31875_pos,DG O-18:2_20:3
+Com_32043_pos,PC O-38:4
+Com_32044_pos,(-)-Caryophyllene oxide
+Com_32283_pos,4-(benzoylamino)-3-hydroxybutanoic acid
+Com_32405_pos,PC 40:4
+Com_32437_pos,"1-(4-hydroxyphenyl)propane-1,2-diol"
+Com_32572_pos,Normorphine
+Com_32585_pos,"Ergosta-5,7,9(11),22-Tetraen-3-beta-Ol"
+Com_32650_pos,AL 8810
+Com_32689_pos,HLK
+Com_32690_pos,GMK
+Com_32693_pos,PC O-33:7
+Com_32723_pos,4-methylphenyl 1-ethyl-3-methyl-1H-pyrazole-5-carbothioate
+Com_32735_pos,N-Acetylglycine
+Com_32750_pos,Lagochilin
+Com_32765_pos,Arginine
+Com_32781_pos,YQH
+Com_32839_pos,Linalool
+Com_32886_pos,Milbemycin A3 oxime
+Com_32983_pos,N-(2-hydroxyphenyl)acetamide
+Com_32987_pos,LPC 36:5
+Com_33002_pos,D-(+)-Proline
+Com_33023_pos,FKK
+Com_33237_pos,Gemifloxacin
+Com_33270_pos,RLH
+Com_33287_pos,PC O-40:7
+Com_33313_pos,Cer 18:2;2O/16:0
+Com_33365_pos,4-Hydroxypropranolol
+Com_33394_pos,"3,3,5-trimethyl-3H,11H-pyrano[3,2-a]carbazole"
+Com_33438_pos,Cer 18:2;2O/24:1
+Com_33709_pos,Cryptotanshinone
+Com_33763_pos,ethyl 5-methoxy-2-methyl-1-phenyl-1H-indole-3-carboxylate
+Com_33865_pos,PC O-38:0
+Com_33967_pos,Ohmefentanyl
+Com_33997_pos,11-Oxoetiocholanolone
+Com_34001_pos,TLH
+Com_34010_pos,"2-{[(4,5-dimethoxy-2-nitrophenethyl)imino]methyl}phenol"
+Com_34014_pos,RNK
+Com_34214_pos,Phosphopyruvic acid
+Com_34306_pos,2-{2-[(1-methyl-1H-pyrazol-5-yl)amino]-2-oxoethoxy}acetic acid
+Com_34334_pos,"1-allyl-9,9,9a-trimethyl-9,9a-dihydro-1H-imidazo[1,2-a]indol-2(3H)-one"
+Com_34372_pos,N-(2-morpholinophenyl)-2-furamide
+Com_34461_pos,"2,3-dihydro-2-spiro[1-(benzyl)piperidin-4-yl]-1,3-benzothiazole"
+Com_34524_pos,CAR 14:3
+Com_34622_pos,Irganox 259
+Com_34806_pos,PC O-39:2
+Com_34844_pos,SM 9:1;2O/26:6
+Com_34851_pos,CAR 21:3
+Com_34852_pos,PC O-36:3
+Com_34915_pos,LPC O-20:1
+Com_34929_pos,PC 18:5_20:5
+Com_34969_pos,PC O-20:1
+Com_35079_pos,Biliverdin
+Com_35117_pos,PC 33:1
+Com_35179_pos,RMH
+Com_35582_pos,Nitrofurantoin
+Com_35649_pos,"9-benzyl-2,3,4,9-tetrahydro-1H-carbazol-4-one"
+Com_35763_pos,Vitamin E Acetate
+Com_35842_pos,N-[1-(4-methoxy-2-oxo-2H-pyran-6-yl)-2-methylbutyl]acetamide
+Com_35907_pos,IMK
+Com_35909_pos,N-Palmitoyl taurine
+Com_35933_pos,QPK
+Com_36126_pos,LPC 40:7
+Com_36154_pos,SM 34:1;2O
+Com_36272_pos,Cer 16:0;2O/3:0
+Com_36342_pos,"2-{[methyl(2,3,4,5,6-pentahydroxyhexyl)amino]methylidene}malononitrile"
+Com_36385_pos,"1,3,5-Trimethylpyrazole"
+Com_36487_pos,Prednisolone tebutate
+Com_36504_pos,2-Hydroxybutyric acid
+Com_36685_pos,"7-(2-hydroxypropan-2-yl)-1,4a-dimethyl-decahydronaphthalen-1-ol"
+Com_36881_pos,"2,5-bis(4-hydroxy-3-methoxyphenyl)-3,4-dimethyloxolan-3-ol"
+Com_36944_pos,LPC 16:2-SN2
+Com_37059_pos,LPC O-20:2
+Com_37133_pos,AMH
+Com_37161_pos,N-Desmethyl sildenafil
+Com_37183_pos,FRH
+Com_37301_pos,Acetylcholine
+Com_37306_pos,"1,7-bis(4-hydroxyphenyl)-5-methoxyheptan-3-one"
+Com_37568_pos,"4',7-Dihydroxyflavanone"
+Com_37673_pos,HKK
+Com_37683_pos,DG O-16:3_17:2
+Com_37690_pos,"2,6-dimethyl-4-(3-thienyl)pyridine-3,5-dicarboxylic acid"
+Com_37961_pos,Fexofenadine
+Com_38024_pos,6-Pentyl-2H-pyran-2-one
+Com_38094_pos,5-(tert-butyl)-N-[4-(trifluoromethyl)phenyl]thiophene-2-carboxamide
+Com_38219_pos,9-acridinecarboxylic acid hydrate
+Com_38241_pos,CAR 15:0
+Com_38291_pos,Thromboxane B2-biotin
+Com_38300_pos,1-(6-methyl-3-pyridyl)ethan-1-one O1-ethyloxime hydrochloride
+Com_38356_pos,"5-benzyl-4-ethyl-2,4-dihydro-3H-1,2,4-triazole-3-thione"
+Com_38369_pos,4-(5-pentylpyrimidin-2-yl)benzonitrile
+Com_38660_pos,HNK
+Com_38741_pos,Sakuranetin
+Com_38793_pos,Luotonin A
+Com_38853_pos,5 methyl THF
+Com_38857_pos,Vindoline
+Com_39130_pos,5¦Á-Dihydrotestosterone glucuronide
+Com_39331_pos,PC 17:2_17:2
+Com_39348_pos,PQH
+Com_39499_pos,LPC 15:1-SN1
+Com_39545_pos,17beta-Trenbolone
+Com_39633_pos,SPB 19:0;2O
+Com_39646_pos,Enrofloxacin
+Com_39714_pos,4'-methyl Acetyl fentanyl-d5
+Com_40180_pos,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(2-phenylethoxy)oxane-3,4,5-triol"
+Com_40228_pos,Amphetamine
+Com_40254_pos,Bitertanol
+Com_40284_pos,"N1,N2-dicyclohexylethanedithioamide"
+Com_40343_pos,TG 15:1_18:3_18:3
+Com_40601_pos,PC 21:1_16:4
+Com_40649_pos,N1-[6-(2-fluorophenoxy)-3-pyridyl]-2-methylacrylamide
+Com_40720_pos,LDGTS 18:2
+Com_40755_pos,Dutasteride
+Com_40763_pos,CAR 23:3
+Com_40963_pos,TG 22:6_22:6_24:2
+Com_40988_pos,PC 17:0_18:4
+Com_41150_pos,Fumonisin B1
+Com_41268_pos,3-hydroxyquinuclidine-3-carbonitrile hydrochloride
+Com_41279_pos,"3,4-dihydroxy-4-(4-methoxyphenyl)-1,2,3,4-tetrahydroquinolin-2-one"
+Com_41360_pos,methyl 2-mercapto-1-methyl-1H-imidazole-5-carboxylate
+Com_41362_pos,Celestolide
+Com_41575_pos,1-(piperidinomethyl)-2-naphthol
+Com_41721_pos,"ethyl 5-[(2,1,3-benzoxadiazol-4-ylsulfonyl)amino]-2-piperidinobenzoate"
+Com_41733_pos,TPH
+Com_41811_pos,4-Hydroxy-3-methylbenzoic acid
+Com_41886_pos,DG O-26:6_20:4
+Com_41923_pos,Vardenafil N-oxide
+Com_41983_pos,TMK
+Com_41985_pos,CAR 20:1
+Com_42085_pos,LNH
+Com_42183_pos,TNK
+Com_42220_pos,LPC 22:2-SN1
+Com_42287_pos,1-Caffeoylquinic Acid
+Com_42318_pos,PC 16:2_17:2
+Com_42448_pos,PC O-30:0
+Com_42674_pos,NAGly 18:1/21:2
+Com_42675_pos,GRH
+Com_42965_pos,Cystathionine
+Com_43080_pos,Diazepam-d8
+Com_43107_pos,5¦Á-Tetrahydrocortisol
+Com_43462_pos,SM 31:2;3O
+Com_43585_pos,delta9-THC-d3
+Com_43630_pos,Galangin
+Com_43647_pos,Norverapamil
+Com_43681_pos,"(2R)-2-[(2R,5S)-5-[(2S)-2-hydroxybutyl]oxolan-2-yl]propanoic acid"
+Com_44050_pos,Ergocalciferol
+Com_44076_pos,CAR 10:1
+Com_44183_pos,ENK
+Com_44295_pos,"N'-[6-(tert-butyl)thieno[3,2-d]pyrimidin-4-yl]-4-methylbenzohydrazide"
+Com_44355_pos,RMK
+Com_44361_pos,YKK
+Com_44982_pos,"1-(3,4-dimethylphenyl)-3-piperidinopyrrolidine-2,5-dione"
+Com_45229_pos,4-phenoxyphenyl 4-hydroxypiperidine-1-carboxylate
+Com_45248_pos,Microcystin-YR
+Com_45350_pos,SM 8:1;2O/34:8
+Com_45474_pos,O-7460
+Com_45520_pos,PC O-31:7
+Com_45590_pos,6-(Dimethylamino)purine
+Com_45596_pos,"(5S)-5-hydroxy-1,7-diphenylheptan-3-one"
+Com_45753_pos,Pantethine
+Com_45797_pos,"3,3-dimethyl-2-morpholino-2,3-dihydrobenzo[b]furan-5-ol"
+Com_46206_pos,Retrorsine
+Com_46421_pos,Guanethidine Monosulfate
+Com_46434_pos,2-piperidinobenzoic acid
+Com_46438_pos,PC O-17:0
+Com_46768_pos,SM 8:1;2O/34:9
+Com_46786_pos,VMK
+Com_46812_pos,PC 19:0_20:1
+Com_46819_pos,DRH
+Com_46903_pos,ERH
+Com_47074_pos,"2-phenyl-2,4,6,7-tetrahydrothiino[4,3-c]pyrazol-3-ol"
+Com_47154_pos,"4-butyl-4-(hydroxymethyl)-1,2-diphenylpyrazolidine-3,5-dione"
+Com_47214_pos,LPC 22:5-SN1
+Com_47331_pos,PC 19:1_19:1
+Com_47430_pos,N-Desmethylclomipramine
+Com_47492_pos,PC O-21:5
+Com_47536_pos,"N-(1,1-diethylprop-2-ynyl)-N'-phenethylthiourea"
+Com_47790_pos,LMK
+Com_47966_pos,PC 17:2_22:5
+Com_47987_pos,O-Desmethylnaproxen
+Com_48146_pos,SM 9:1;2O/28:5
+Com_48255_pos,ethyl 2-cyano-3-[(2-oxoazepan-3-yl)amino]acrylate
+Com_48292_pos,6-Acetylmorphine
+Com_48327_pos,"(3S,9aS)-3-benzyl-octahydro-1H-pyrido[1,2-a]pyrazin-1-one"
+Com_48414_pos,ANH
+Com_48526_pos,2-(2-hydroxy-3-methylbutanamido)-4-methylpentanoic acid
+Com_48689_pos,"5,5-dimethyl-2-phenyl-1,3-thiazolane-4-carboxylic acid"
+Com_48710_pos,PC 17:2_18:5
+Com_48838_pos,ethyl 2-cyano-3-(3-thienyl)acrylate
+Com_48944_pos,NMK
+Com_48965_pos,Arachidonoyl ethanolamide phosphate
+Com_48981_pos,CAR 22:5
+Com_49116_pos,WMH
+Com_49149_pos,Oxohongdenafil
+Com_49303_pos,RKK
+Com_49403_pos,Ticlopidine hydrochloride
+Com_49405_pos,Milbemycin A4 oxime
+Com_49493_pos,"3-morpholino-5,6-diphenylpyridazine-4-carbonitrile"
+Com_49545_pos,2-(2-methyl-1H-indol-3-yl)acetonitrile
+Com_49628_pos,PC 22:3_20:5
+Com_49775_pos,PE 17:1_17:2
+Com_49811_pos,Debromohymenialdisine
+Com_49928_pos,GQH
+Com_49960_pos,LPC 42:12-SN2
+Com_50187_pos,2-(1H-benzimidazol-2-yl)-N-[4-(benzyloxy)phenyl]benzamide
+Com_50218_pos,DNK
+Com_50389_pos,"1,3,7-trimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione"
+Com_50415_pos,DG O-22:2_20:1
+Com_50627_pos,Phenmetrazine
+Com_50750_pos,HMK
+Com_50778_pos,DG O-20:3_19:2
+Com_50787_pos,PC O-31:0
+Com_50841_pos,"16,16-Dimethyl prostaglandin A1"
+Com_51167_pos,PC O-38:8
+Com_51769_pos,LPC 32:1
+Com_51877_pos,Fisetin
+Com_51913_pos,6 ¦Â-Hydroxycortisol
+Com_52061_pos,N'-[4-(tert-butyl)phenyl]-N-cyclohexyl-N-methylurea
+Com_52077_pos,"4,4'-dimethoxy[1,1'-biphenyl]-2-carbonitrile"
+Com_52268_pos,Norbuprenorphine
+Com_52271_pos,HNH
+Com_52361_pos,"1-(9-ethyl-9H-carbazol-3-yl)-2,5-dihydro-1H-pyrrole-2,5-dione"
+Com_52455_pos,PC 19:0_20:5
+Com_52493_pos,4-acetyl-4-(ethoxycarbonyl)heptanedioic acid
+Com_52537_pos,"2-phenyl-4H-furo[2,3-h]chromen-4-one"
+Com_52538_pos,CAR 19:2
+Com_52556_pos,Artemisinin
+Com_52652_pos,3-(dimethylamino)-1-(5-methyl-3-phenyl-4-isoxazolyl)-2-propen-1-one
+Com_52704_pos,N4-phenethylmorpholine-4-carbothioamide
+Com_52931_pos,2-({2-oxo-2-[(2-oxo-3-azepanyl)amino]ethyl}sulfanyl)acetic acid
+Com_53187_pos,Taurochenodeoxycholic Acid (sodium salt)
+Com_53189_pos,PC O-31:1
+Com_53406_pos,2-(cyclopropylcarbonyl)-3-(4-fluoroanilino)acrylonitrile
+Com_53414_pos,CAR 19:1
+Com_53455_pos,"5,6-diphenyl-2,3-dihydropyrazine"
+Com_53473_pos,VPH
+Com_53629_pos,YLH
+Com_53924_pos,"1-adamantyl(1,4-thiazinan-4-yl)methanone"
+Com_54257_pos,Bisphenol TMC
+Com_54895_pos,3-(4-hydroxy-3-methoxyphenyl)propanoic acid
+Com_54936_pos,NAGly 18:2/22:4
+Com_54954_pos,MPH
+Com_55167_pos,SPK
+Com_55237_pos,"1-[(3,5-dimethylisoxazol-4-yl)sulfonyl]piperidine"
+Com_55270_pos,KPK
+Com_55289_pos,DG O-24:4_22:5
+Com_55768_pos,25-hydroxycholecalciferol
+Com_55867_pos,(¡À)5(6)-DiHETE
+Com_55884_pos,H-Trp-NH2
+Com_55936_pos,"4-(3-Methyl-5-oxo-4,5-dihydro-1H-pyrazol-1-yl)benzenesulfonic acid"
+Com_56108_pos,SL 13:2;O/16:2;O
+Com_56231_pos,PC O-19:1
+Com_56387_pos,Quinidine
+Com_56489_pos,dihydrotachysterol
+Com_56802_pos,Coniferyl alcohol
+Com_57033_pos,"4-(2,3-dihydro-1H-indol-1-yl)-1-phenyl-1H-pyrazolo[3,4-d]pyrimidine"
+Com_57613_pos,CAR 12:3
+Com_57751_pos,PC 18:3_18:3
+Com_57992_pos,"3-{[(3S)-3-(1,3-Benzothiazol-2-yl)-1-pyrrolidinyl]methyl}benzonitrile"
+Com_58105_pos,LPC 42:11
+Com_58199_pos,"2-[(3S)-1-(3,4-Difluorobenzyl)-3-pyrrolidinyl]-1,3-benzoxazole"
+Com_58590_pos,FMK
+Com_58909_pos,"4-(anilinomethylidene)-3-methyl-4,5-dihydroisoxazol-5-one"
+Com_59145_pos,6beta-Naltrexol-d3
+Com_59173_pos,"2-oxa-4-azatetracyclo[6.3.1.1~6,10~.0~1,5~]tridecan-3-one"
+Com_59322_pos,"(2S)-2-(2-hydroxypropan-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one"
+Com_59481_pos,CAR 12:1
+Com_59553_pos,Rutamarin
+Com_59571_pos,(-)-Epigallocatechin
+Com_59672_pos,"6-phenyl-1,2,3,4-tetrahydro-2,5-benzodiazocin-1-one"
+Com_60181_pos,"3,5-di(3,4,5-trimethoxybenzylidene)tetrahydro-2H-pyran-4-one"
+Com_60345_pos,"3-(3,4,5-trimethoxyphenyl)propanoic acid"
+Com_60755_pos,Cer 18:1;2O/17:2
+Com_60803_pos,Diosgenin
+Com_60964_pos,Meperidine-d5
+Com_61129_pos,"3-(2-methylpropyl)-octahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+Com_61678_pos,YMK
+Com_61790_pos,N-benzyl-N-isopropyl-N'-(4-isopropylphenyl)thiourea
+Com_61806_pos,N-(tert-butyl)-N'-cyclopropylthiourea
+Com_61949_pos,WPH
+Com_61987_pos,AM 404
+Com_62160_pos,YPH
+Com_62418_pos,Ocfentanil-d5
+Com_62703_pos,Prostaglandin I2
+Com_62791_pos,"6,6-dimethyl-4-piperidino-5,6-dihydro-2H-thiine-2-thione"
+Com_62884_pos,"N1-[1-(2,4-dimethylphenyl)ethyl]-2,2-dimethylpropanamide"
+Com_63327_pos,Levonorgestrel
+Com_63914_pos,ARH
+Com_64057_pos,1-(3-methoxy-2-nitrostyryl)pyrrolidine
+Com_64139_pos,SM 9:1;2O/34:6
+Com_64142_pos,RNH
+Com_64412_pos,"3,5,7-trihydroxy-2-phenyl-4H-chromen-4-one"
+Com_64445_pos,DQH
+Com_64466_pos,N-{4-[4-(3-chlorophenyl)piperazino]butyl}-4-methoxybenzamide
+Com_64576_pos,LPC 17:2-SN1
+Com_65001_pos,HMH
+Com_65214_pos,Cyclohexylamine
+Com_65362_pos,PC 36:10_38:10
+Com_65507_pos,N-(9-oxodecyl)acetamide
+Com_65583_pos,Bafilomycin B1
+Com_65588_pos,Lidocaine N-oxide
+Com_65691_pos,Lysopc 20:0
+Com_65750_pos,PE 18:2_18:3
+Com_65840_pos,PC 19:2_18:5
+Com_65926_pos,SMK
+Com_65973_pos,N1-(3-pyridyl)-4-[(dipropylamino)sulfonyl]benzamide
+Com_66008_pos,"4-methyl-2-oxo-1,2-dihydroquinoline-3-carbonitrile"
+Com_66130_pos,"4-decyl-3-hydroxy-5-oxooxolane-2,3-dicarboxylic acid"
+Com_66186_pos,PC 10:0_11:0
+Com_66390_pos,LPC O-19:2
+Com_66527_pos,Fumonisin B2
+Com_66711_pos,PC O-40:11
+Com_66789_pos,TG 22:5_22:5_24:3
+Com_66937_pos,4-(5-propyl-2-pyridyl)benzonitrile
+Com_67075_pos,PC O-39:1
+Com_67164_pos,LPC 20:4-SN2
+Com_67286_pos,N-Acetyldopamine
+Com_67436_pos,PC O-42:2
+Com_67985_pos,Flavin mononucleotide (FMN)
+Com_68185_pos,SM 35:1;2O
+Com_68268_pos,"4-benzyl-2H-1,4-benzoxazin-3(4H)-one"
+Com_68517_pos,4-Aminobutyric acid
+Com_68703_pos,PC 19:0_19:1
+Com_68749_pos,"4-[1-(dimethylamino)ethylidene]-2-phenyl-1,3-oxazol-5(4H)-one"
+Com_68964_pos,DL-Citrulline
+Com_68977_pos,"4-[4-phenyl-3,6-dihydro-1(2H)-pyridinyl]butanoic acid hydrochloride"
+Com_69004_pos,4-amino-2-(dibenzylamino)-5-pyrimidinecarbonitrile
+Com_69062_pos,Adenosine 5'-Diphosphate
+Com_69215_pos,Michler's ketone
+Com_69339_pos,PC O-42:10
+Com_69564_pos,JNJ-1661010
+Com_69641_pos,"1-(2-furyl)pentane-1,4-dione"
+Com_70301_pos,SQH
+Com_70735_pos,Sphinganine
+Com_70886_pos,PC O-37:6
+Com_71267_pos,LPC 18:4-SN1
+Com_71272_pos,PNK
+Com_71307_pos,Flavanone
+Com_71810_pos,QMK
+Com_71908_pos,DPH
+Com_71935_pos,PC 44:12
+Com_71986_pos,PC 18:4_18:5
+Com_72200_pos,RPH
+Com_72239_pos,"2,6-Diaminopimelic acid"
+Com_72717_pos,"6-(2,3-dihydro-1,4-benzodioxin-6-yl)-2-mercaptonicotinonitrile"
+Com_73184_pos,Indoxylsulfuric acid
+Com_73372_pos,NPK
+Com_73541_pos,2-[(butylamino)(imino)methyl]-1-oxohydrazinium-1-olate
+Com_74618_pos,Ginsenoside Rb1
+Com_74662_pos,PKK
+Com_74695_pos,Sphingosine (d18:1)
+Com_74720_pos,3-hydroxy-2-octylpentanedioic acid
+Com_75040_pos,N-Acetylcytidine
+Com_75240_pos,PC O-19:4
+Com_75411_pos,PE 20:4_20:4
+Com_75518_pos,TG 18:3_18:3_28:5
+Com_75523_pos,N-METHYL (-)EPHEDRINE
+Com_75548_pos,LPC 17:2-SN2
+Com_75707_pos,PC 39:6
+Com_75912_pos,FNK
+Com_76214_pos,TBB
+Com_76297_pos,"1-(2,4-dihydroxyphenyl)-2-(3,5-dimethoxyphenyl)propan-1-one"
+Com_76497_pos,PC 19:2_20:5
+Com_77461_pos,[4-(2-methoxyphenyl)piperazino](4-methylphenyl)methanone
+Com_77735_pos,Leucine-enkephalin
+Com_77819_pos,HRH
+Com_77959_pos,EPH
+Com_78070_pos,"2-(acetyloxy)-3-amino-1-[1,2-di(acetyloxy)ethyl]-3-oxopropyl acetate"
+Com_78079_pos,PC O-41:6
+Com_78712_pos,SM 9:1;2O/28:7
+Com_78746_pos,(+/-)-JWH 073 N-(3-hydroxybutyl)-d5
+Com_78921_pos,CAR 19:3
+Com_79228_pos,TQH
+Com_80064_pos,Kojic acid
+Com_80089_pos,"4-amino-2-(2,4-dimethoxyanilino)-5-pyrimidinecarbonitrile"
+Com_80736_pos,1-Methylhistamine
+Com_81075_pos,"4,4'-Bis(3-methyl-5-oxo-1-phenylpyrazolinylidene)"
+Com_81612_pos,"3-pentadecyl-4,5,6,7-tetrahydrobenzo[d]isoxazol-4-one oxime"
+Com_81653_pos,Alloxan
+Com_81959_pos,APK
+Com_82091_pos,3-Methoxycinnamic acid
+Com_82407_pos,SDMA
+Com_83399_pos,PC O-42:11
+Com_83631_pos,EMH
+Com_84797_pos,"8-(1,2-dihydroxy-3-methylbut-3-en-1-yl)-7-methoxy-2H-chromen-2-one"
+Com_84845_pos,PC 18:4_18:4
+Com_85097_pos,"(2,6-dimethylmorpholino)(1-methyl-5-nitro-1H-pyrazol-4-yl)methanone"
+Com_85336_pos,PC 18:2_18:2
+Com_85600_pos,AMK
+Com_85633_pos,IPH
+Com_86051_pos,CAR 15:1
+Com_86231_pos,SNK
+Com_86356_pos,AL 8810 Methyl ester
+Com_86561_pos,Orotic Acid
+Com_86920_pos,N-(cyclopropylmethyl)-N'-phenylurea
+Com_86982_pos,PC O-43:9
+Com_87582_pos,PC 19:2_18:4
+Com_87976_pos,1-benzyl-3-butyl-4-hydroxy-6-phenylpyridin-2(1H)-one
+Com_88223_pos,PC 34:3
+Com_88461_pos,PC 17:1_17:1
+Com_88916_pos,SM 9:1;2O/30:8
+Com_89035_pos,2-mercapto-5-methyl-6-propylpyrimidin-4-ol
+Com_89211_pos,PC 38:6
+Com_89560_pos,SM 8:1;2O/30:7
+Com_89959_pos,PC O-34:2
+Com_90437_pos,"5-(2,5-dihydroxyhexyl)oxolan-2-one"
+Com_90446_pos,PMK
+Com_90798_pos,PC O-38:10
+Com_90928_pos,JWH 073 N-butanoic acid-d5
+Com_91058_pos,"3,4-dimethyl-N-[4-(4-methylpiperazino)benzyl]benzamide"
+Com_91075_pos,PC O-36:10
+Com_91150_pos,Virginiamycin
+Com_91406_pos,PC 18:1_20:5
+Com_91810_pos,PC O-32:8
+Com_91888_pos,N-isopropyl-N'-(2-oxoazepan-3-yl)urea
+Com_92100_pos,PC O-40:10
+Com_92102_pos,DGMG (18:2)
+Com_92117_pos,PC O-37:3
+Com_92567_pos,"9-Oxo-10(E),12(E)-octadecadienoic acid"
+Com_94529_pos,5-Hydroxyindole
+Com_94569_pos,"1,3-Dimethyluric Acid"
+Com_94824_pos,PC O-36:8
+Com_95120_pos,VLH
+Com_96274_pos,SM 9:1;2O/32:7
+Com_96298_pos,"(3R)-4,4-Dimethyl-2-oxotetrahydro-3-furanyl beta-D-glucopyranoside"
+Com_96874_pos,L-Dihydroorotic Acid
+Com_97803_pos,PC 38:0_38:0
+Com_98018_pos,LPH
+Com_98052_pos,3-hydroxy-4-methoxy-9H-xanthen-9-one
+Com_98831_pos,Pleuromutilin
+Com_98909_pos,N1-(5-methylisoxazol-3-yl)-2-tetrahydro-1H-pyrrol-1-ylacetamide
+Com_100154_pos,"2-[(7-methyl-2,3-dihydro-1H-inden-4-yl)oxy]pyridin-3-amine"
+Com_100281_pos,"ethyl 4-amino-2-(methylsulfanyl)-1,3-thiazole-5-carboxylate"
+Com_100736_pos,GNK
+Com_101689_pos,Dl-Lanthionine
+Com_102157_pos,Deisopropylatrazine
+Com_102586_pos,PC 18:0_18:0
+Com_4_pos,Gamma-Caprolactone
+Com_16_pos,MAG (18:3)
+Com_57_pos,Oleic acid
+Com_73_pos,Palmitoyl ethanolamide
+Com_135_pos,MAG (18:2)
+Com_152_pos,LPC O-16:1
+Com_174_pos,Leucylproline
+Com_204_pos,N-Tetradecanamide
+Com_286_pos,LPC 18:2
+Com_299_pos,Isophorone
+Com_322_pos,7-Ketolithocholic acid
+Com_348_pos,LPC 20:4
+Com_375_pos,Linoleoyl ethanolamide
+Com_437_pos,Oleoyl ethanolamide
+Com_448_pos,Uric acid
+Com_524_pos,Methyltestosterone
+Com_579_pos,LPE 18:0
+Com_592_pos,23-Nordeoxycholic acid
+Com_641_pos,Ethyl chrysanthemumate
+Com_666_pos,LPC 22:6
+Com_699_pos,¦´-Aminobutyric acid (GABA)
+Com_725_pos,PE O-18:1_22:6
+Com_727_pos,L-lysine
+Com_775_pos,gamma-Glutamylleucine
+Com_845_pos,Thr-Leu
+Com_861_pos,L-Tyrosinemethylester
+Com_871_pos,Prolylleucine
+Com_890_pos,PE O-18:2_22:5
+Com_912_pos,13(S)-HOTrE
+Com_1017_pos,PE O-16:1_22:5
+Com_1018_pos,Ne-(1-Carboxymethyl)-L-lysine
+Com_1044_pos,LPC O-18:1
+Com_1193_pos,Glycerol 1-hexadecanoate
+Com_1226_pos,Valylproline
+Com_1240_pos,PE O-18:2_22:6
+Com_1320_pos,LysoPC 20:2
+Com_1397_pos,L-Leucyl-L-Alanine
+Com_1403_pos,NSI-189
+Com_1410_pos,L-Alanyl-L-proline
+Com_1446_pos,Indole-3-acrylic acid
+Com_1460_pos,Desthiobiotin
+Com_1467_pos,Lysope 14:0
+Com_1503_pos,Lysopc 16:1
+Com_1504_pos,LPC O-16:0
+Com_1546_pos,Prostaglandin J2
+Com_1567_pos,N-Oleoyl dopamine
+Com_1637_pos,"13,14-dihydro-15-keto Prostaglandin A2"
+Com_1696_pos,Glycylproline
+Com_1700_pos,Lysopc 18:2
+Com_1707_pos,LPC 22:5
+Com_1728_pos,ethyl 3-cyano-6-methyl-2-(phenylthio)isonicotinate
+Com_1742_pos,Gly-Phe
+Com_1821_pos,Gly-Tyr
+Com_1899_pos,Anandamide (AEA)
+Com_1975_pos,cis-gondoic acid
+Com_2065_pos,Bicyclo Prostaglandin E2
+Com_2166_pos,Ala-Ile
+Com_2247_pos,3-Methyladipic acid
+Com_2284_pos,LPE 17:1
+Com_2387_pos,PE O-16:1_20:4
+Com_2398_pos,Lysops 22:6
+Com_2435_pos,Ala-Leu
+Com_2490_pos,(5-L-Glutamyl)-L-Amino Acid
+Com_2585_pos,4-Butylresorcinol
+Com_2670_pos,N-Acetyl-L-carnosine
+Com_2687_pos,"2,3-Dinor-TXB2"
+Com_2729_pos,Prostaglandin A3
+Com_2848_pos,PE O-18:1_22:5
+Com_3019_pos,LPC 17:0
+Com_3057_pos,Pyridoxamine
+Com_3107_pos,LPC 20:3
+Com_3188_pos,Boc-beta-cyano-L-alanine
+Com_3206_pos,5-Hydroxyindole-3-acetic acid
+Com_3418_pos,Acetylcarnitine
+Com_3562_pos,Lysopc 18:3
+Com_3604_pos,D-2-Aminoadipic acid
+Com_3738_pos,Docosahexaenoyl Ethanolamide
+Com_3810_pos,Isoproterenol
+Com_3843_pos,Alanyltyrosine
+Com_4027_pos,5-Hydroxytryptophol
+Com_4071_pos,N-Acetylhistidine
+Com_4193_pos,Prostaglandin K2
+Com_4364_pos,L-Alanyl-L-Lysine
+Com_4370_pos,"All-Trans-13,14-Dihydroretinol"
+Com_4438_pos,LPE 18:2
+Com_4453_pos,Dibutyl sebacate
+Com_4666_pos,Adipamide
+Com_4700_pos,LPC 22:4
+Com_4786_pos,10-Undecenoic acid
+Com_4828_pos,LPC 18:0
+Com_4888_pos,Anserine
+Com_4894_pos,5-Methylcytosine
+Com_5027_pos,alpha-Farnesene
+Com_5046_pos,4-Methoxycinnamic Acid
+Com_5065_pos,"7-(1-pyrrolidinyl)pyrimido[4,5-d]pyrimidin-4-amine"
+Com_5079_pos,PC 18:1_18:1
+Com_5122_pos,5-Methoxyindole-3-Carbaldehyde
+Com_5270_pos,H-Gly-Pro-OH
+Com_5397_pos,2-{2-oxo-2-[(2-oxo-3-azepanyl)amino]ethoxy}acetic acid
+Com_5544_pos,3-Indoleacrylic acid
+Com_5594_pos,PC 18:2_18:3
+Com_5599_pos,12(S)-HETE
+Com_5601_pos,Mag (18:1)
+Com_5721_pos,Asp-glu
+Com_5766_pos,PC 18:0_20:5
+Com_5841_pos,2-Arachidonyl Glycerol ether
+Com_5974_pos,5-Aminosalicylic Acid
+Com_6009_pos,1-Methylhistidine
+Com_6022_pos,"12,13-EODE"
+Com_6057_pos,"1,4-Dihydro-1-Methyl-4-Oxo-3-Pyridinecarboxamide"
+Com_6123_pos,Medroxyprogesterone
+Com_6168_pos,N-Formylkynurenine
+Com_6570_pos,"13,14-dihydro-15-keto-tetranor Prostaglandin E2"
+Com_6603_pos,5-Methyluridine
+Com_6830_pos,Sodium Dehydrocholate
+Com_6844_pos,8-Aminooctanoic acid
+Com_7106_pos,Ala-Gln
+Com_7164_pos,Prostaglandin B2
+Com_7165_pos,10-Nitrolinoleate
+Com_7254_pos,N-Carbamyl-L-glutamicacid
+Com_7381_pos,23-Norcholic acid
+Com_7428_pos,L-(-)-alpha-Amino-epsilon-Caprolactam
+Com_7677_pos,gamma-Nonanolactone
+Com_7797_pos,PE O-18:1_20:4
+Com_7952_pos,Punicic Acid
+Com_8138_pos,L-Cysteine-glutathione gisulfide
+Com_8170_pos,LPE 18:1
+Com_8551_pos,17¦Á-Hydroxyprogesterone
+Com_8594_pos,Glu-Val-Phe
+Com_8794_pos,Lysopc 16:2 (2N Isomer)
+Com_8839_pos,Pepstatin
+Com_8946_pos,LPC O-18:4
+Com_8968_pos,Guanine
+Com_9125_pos,Valproic acid
+Com_9126_pos,Paracetamol
+Com_9193_pos,Gly-Tyr-Ala
+Com_9210_pos,Thymopentin
+Com_9350_pos,LPC O-15:1
+Com_9512_pos,Methyl 3-indolyacetate
+Com_9535_pos,Tetrahydroaldosterone
+Com_10164_pos,LPC 18:3
+Com_10440_pos,Lysopc 18:1
+Com_10466_pos,1-(4-Methoxyphenyl)-2-propanone
+Com_10655_pos,5-Hydroxyindole-2-carboxylic acid
+Com_10872_pos,LPC 14:0
+Com_10958_pos,L-arginine
+Com_10999_pos,LPE 20:1
+Com_11004_pos,LPC 20:2
+Com_11019_pos,PE O-18:2_18:1
+Com_11078_pos,Lysops 22:5
+Com_11141_pos,LPC O-18:3
+Com_11214_pos,beta-Estradiol 17-Acetate
+Com_11317_pos,Deoxycytidine
+Com_11573_pos,PC 17:0_18:2
+Com_11868_pos,Methyl nicotinate
+Com_11869_pos,LPE 19:0
+Com_12191_pos,Methyldopa
+Com_12266_pos,Lysopc 20:4
+Com_12276_pos,Lysopa 18:0
+Com_12445_pos,3'-Hydroxystanozolol
+Com_12517_pos,AKB48 N-(4-hydroxypentyl) metabolite
+Com_12578_pos,Estradiol
+Com_12793_pos,Nor-9-carboxy-¦Ä9-THC
+Com_12820_pos,All trans-Retinal
+Com_12870_pos,O-Phospho-L-serine
+Com_13056_pos,DL-Panthenol
+Com_13060_pos,Estradiol Benzoate
+Com_13169_pos,Dehydroepiandrosterone
+Com_13197_pos,2-Hydroxy-2-methylbutanedioic acid
+Com_13537_pos,Nonadecanoic acid
+Com_13721_pos,L-Homocitrulline
+Com_13734_pos,Desoxycortone
+Com_13894_pos,2-Aminobenzenesulfonic acid
+Com_13949_pos,Menaquinone
+Com_14204_pos,LPE 15:0
+Com_14306_pos,Cystine
+Com_15082_pos,Ureidosuccinic acid
+Com_15473_pos,Boldione
+Com_15474_pos,2-Methoxyestradiol (2-MeOE2)
+Com_15582_pos,Lactitol
+Com_15614_pos,Stercobilin
+Com_15653_pos,L-Carnitine
+Com_15677_pos,"4-Pregnen-17alpha,20alpha-Diol-3-One"
+Com_16597_pos,LPC O-14:1
+Com_16907_pos,Oleanolic acid
+Com_17055_pos,2-[(carboxymethyl)(methyl)amino]-5-methoxybenzoic acid
+Com_17064_pos,Acetylcysteine
+Com_17133_pos,Lysopa 16:0
+Com_17341_pos,"2-(3,4-dimethoxyphenyl)ethanamine"
+Com_17357_pos,Sebacic acid
+Com_17908_pos,Cer 18:0;3O/16:0;(2OH)
+Com_18192_pos,N1-[4-(trifluoromethyl)phenyl]-2-phenylbutanamide
+Com_18451_pos,P-Aminohippuric Acid
+Com_18514_pos,6-Aminonicotinamide
+Com_18520_pos,3-Methoxytyramine
+Com_18802_pos,Gamma-Glu-Leu
+Com_19133_pos,4-Methylvaleric Acid
+Com_19164_pos,PE O-15:1_22:6
+Com_19324_pos,Hydrocortisone acetate
+Com_19330_pos,Roquefortine C
+Com_19918_pos,Pyridoxal 5'-Phosphate
+Com_20041_pos,1-Methylxanthine
+Com_20073_pos,Isorhapontigenin
+Com_20659_pos,Deoxyinosine
+Com_20748_pos,LPE 16:1
+Com_20800_pos,Tylosin
+Com_20830_pos,"N2,N2-Dimethylguanosine"
+Com_20994_pos,Pantetheine
+Com_21918_pos,N-Acetyl-DL-phenylalanine
+Com_22409_pos,S-Lactoyglutathione
+Com_22428_pos,Androsterone
+Com_22885_pos,Tryptophanol
+Com_23252_pos,dUMP
+Com_23371_pos,Ip7G
+Com_23442_pos,Estrone
+Com_23447_pos,Oleoyl-L-alpha-lysophosphatidic acid
+Com_23780_pos,Diflorasone
+Com_24239_pos,N-Acetyl-aspartic acid
+Com_24335_pos,N-P-Coumaroyl Spermidine
+Com_24459_pos,Cytidine 5'-Monophosphate-N-Acetylneuraminic Acid
+Com_25419_pos,D-Glucosamine
+Com_25644_pos,17alpha-Hydroxyprogesterone
+Com_25784_pos,2-Naphthol
+Com_26537_pos,Chenodeoxycholic acid-3-beta-D-glucuronide
+Com_26865_pos,Ascorbyl palmitate
+Com_28850_pos,Terephthalic Acid
+Com_29888_pos,Norharman
+Com_29977_pos,19-Nortestosterone
+Com_31556_pos,MGMG (18:2)
+Com_32931_pos,Methyl alpha-D-glucopyranoside
+Com_35331_pos,Myristic acid
+Com_36949_pos,3-(2-Naphthyl)-D-Alanine
+Com_37495_pos,Trenbolone acetate
+Com_38071_pos,LPE 20:0
+Com_38111_pos,SM 8:1;2O/34:0
+Com_38964_pos,17alpha-Ethinyl estradiol
+Com_39354_pos,N-Acetyl-L-histidine
+Com_40367_pos,Tyrosylalanine
+Com_41483_pos,"N-(2,5-diethoxy-4-morpholinophenyl)-4-methoxybenzenesulfonamide"
+Com_41637_pos,5-Phenylvaleric Acid
+Com_43199_pos,3-[4-(tert-butyl)anilino]-2-(3-thienylcarbonyl)acrylonitrile
+Com_43888_pos,Phe-Pro
+Com_45166_pos,Cyclocytidine
+Com_45637_pos,Lysopc 14:0
+Com_46285_pos,Dl-2-Amino-3-phosphonopropionic acid
+Com_46614_pos,PAF C-16
+Com_46770_pos,dCMP
+Com_50004_pos,Cyclohexylsulfamate
+Com_51784_pos,Hydrocortisone
+Com_52001_pos,N-Acetylornithine
+Com_52987_pos,3-Nitro-L-Tyrosine
+Com_56845_pos,Glu-Glu
+Com_56852_pos,XMP
+Com_58359_pos,¦Á-Ergocryptine
+Com_59433_pos,Kinetin 9-riboside
+Com_59699_pos,Tetrahydrocorticosterone
+Com_62001_pos,Fmoc-L-Isoleucine
+Com_64101_pos,Royal jelly acid
+Com_64577_pos,LPC 17:2
+Com_64648_pos,D-Erythrose 4-phosphate
+Com_64928_pos,2-deoxyglucose-6-phosphate
+Com_67909_pos,LPC 16:2
+Com_69146_pos,Homoarginine
+Com_70106_pos,LPC 18:4
+Com_74349_pos,Epoxomicin
+Com_75444_pos,Sildenafil-d3
+Com_76724_pos,Nicotinate ribonucleoside
+Com_78365_pos,Ergothioneine
+Com_78453_pos,L-Homocystine
+Com_80874_pos,Homocysteic acid
+Com_80890_pos,L-cysteine
+Com_84924_pos,6-Methoxy-2-naphthoic acid
+Com_91526_pos,8-Hydroxyguanosine
+Com_93764_pos,6-Deoxy-D-glucose

@@ -1,0 +1,55 @@
+,1,2,3,4,5,6
+(5'->5')-dinucleotides,-0.730491856,NA,-0.779110283,NA,NA,NA
+5'-deoxyribonucleosides,-0.630337898,NA,-0.641033952,NA,NA,0.616155878
+Anthracenes,-0.61121465,NA,-0.604083948,NA,NA,NA
+Azetidines,-0.658050401,NA,-0.614293817,NA,NA,NA
+Azoles,NA,0.613256088,NA,NA,NA,NA
+Azolines,0.64994733,NA,0.753018394,NA,NA,NA
+Benzimidazoles,-0.724333522,NA,NA,NA,NA,NA
+Benzophenanthridine alkaloids,-0.653512681,NA,-0.736812252,NA,NA,NA
+Benzopyrans,0.746049753,NA,0.778948221,NA,NA,NA
+Benzothiazoles,-0.655943603,NA,-0.710882424,NA,NA,NA
+Carboximidic acids and derivatives,NA,NA,0.6601572,NA,NA,NA
+Carboxylic acids and derivatives,-0.723685277,NA,-0.698889879,NA,NA,NA
+Cinchona alkaloids,NA,NA,-0.670205008,NA,NA,NA
+Cinnamaldehydes,-0.670205008,NA,-0.665343165,NA,NA,0.627671273
+Cinnamic acids and derivatives,-0.774086379,NA,-0.710072117,NA,NA,0.62290061
+Coumarins and derivatives,-0.775869054,NA,-0.750911595,NA,NA,NA
+Dithiolanes,NA,0.604787275,NA,NA,NA,NA
+Endocannabinoids,0.633417065,NA,0.635685925,NA,NA,NA
+Fatty Acyls,0.707317073,NA,0.706020582,NA,NA,NA
+Flavin nucleotides,-0.678308079,NA,-0.753504578,NA,NA,NA
+Flavonoids,-0.752208087,NA,-0.624665748,NA,NA,NA
+Glycerolipids,NA,NA,0.661939875,NA,NA,NA
+Glycerophospholipids,-0.62029009,NA,-0.73778462,NA,NA,NA
+Imidazopyrimidines,-0.67506685,NA,-0.756097561,NA,NA,NA
+Isoquinolines and derivatives,0.620938336,NA,0.707641196,NA,NA,NA
+Keto acids and derivatives,NA,NA,0.605704562,NA,NA,-0.611385215
+Lactams,0.615266186,NA,0.660805445,NA,NA,-0.67949055
+Lactones,NA,NA,NA,NA,NA,0.609246641
+"Linear 1,3-diarylpropanoids",0.681549307,NA,0.794830241,NA,NA,NA
+Macrolactams,-0.777003484,NA,-0.705372336,NA,NA,NA
+Morphinans,0.666477595,NA,0.697593388,NA,NA,-0.609411147
+Naphthalenes,-0.650595576,NA,-0.701158739,NA,NA,NA
+Nucleoside and nucleotide analogues,-0.639089215,NA,-0.680576939,NA,NA,NA
+Organic carbonic acids and derivatives,-0.770521027,NA,-0.739243173,NA,NA,0.638693151
+Organic oxoanionic compounds,NA,NA,0.617535046,NA,NA,NA
+Organic phosphonic acids and derivatives,NA,NA,-0.683656106,NA,NA,NA
+Organic sulfonic acids and derivatives,-0.734705453,NA,-0.782675634,NA,NA,NA
+Oxazinanes,NA,NA,-0.61348351,NA,NA,NA
+Oxepanes,-0.711692732,NA,-0.715582206,NA,NA,NA
+Peptidomimetics,-0.634713556,NA,-0.744267077,NA,NA,NA
+Phenylpropanoic acids,0.724657645,NA,0.685924966,NA,NA,NA
+Plumeran-type alkaloids,-0.742160279,NA,-0.776031116,NA,NA,NA
+Pteridines and derivatives,NA,NA,-0.630662021,NA,NA,NA
+Purine nucleosides,-0.671015315,NA,-0.743942954,NA,NA,NA
+Purine nucleotides,-0.761445588,NA,-0.74345677,NA,NA,NA
+Pyridines and derivatives,-0.723847338,NA,-0.692731545,NA,NA,NA
+Pyrimidine nucleosides,-0.743132647,NA,-0.747022121,NA,NA,NA
+Pyrimidine nucleotides,-0.785268617,NA,-0.78332388,NA,NA,NA
+Quinolines and derivatives,0.638116846,0.636708187,0.653674743,NA,NA,-0.618294452
+Sphingolipids,0.778462037,NA,0.829349323,NA,NA,NA
+Steroids and steroid derivatives,-0.666801718,NA,-0.680414877,NA,NA,NA
+Tetracyclines,0.750425411,NA,0.80730897,NA,NA,NA
+Triazines,-0.607325176,NA,-0.685114658,NA,NA,NA
+Yohimbine alkaloids,NA,NA,-0.62936553,NA,NA,NA
